@@ -1,0 +1,772 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Practice Areas",
+    "industries": "Industries",
+    "team": "Our Team",
+    "contact": "Contact",
+    "bookConsultation": "Book a Consultation",
+    "subtitle": "LEGAL & ADVISORY"
+  },
+  "hero": {
+    "tagline": "Cross-Border Legal & Corporate Advisory",
+    "subtitle": "We help individuals and businesses navigate global legal complexity — from company formation to cross-border investment, tax compliance, and intellectual property protection.",
+    "badge": "Vietnam Bar Federation · 180+ Countries Served",
+    "availableNow": "Available Now",
+    "freeConsultation": "Free initial consultation",
+    "cta": "Book a Free Consultation",
+    "ctaSecondary": "Explore Global Solutions",
+    "stats": {
+      "countries": "180+",
+      "countriesLabel": "Countries Served",
+      "experience": "12+",
+      "experienceLabel": "Years Experience",
+      "lawyers": "3",
+      "lawyersLabel": "Bar-Certified Lawyers",
+      "experts": "5",
+      "expertsLabel": "Legal Experts"
+    },
+    "keyJurisdictions": "Key Jurisdictions",
+    "scroll": "Scroll",
+    "globeWeLabel": "OUR FIRM",
+    "jurisdictions": [
+      "Singapore",
+      "Hong Kong",
+      "USA",
+      "Dubai",
+      "BVI",
+      "EU",
+      "ASEAN",
+      "Cayman"
+    ],
+    "globePins": [
+      "Singapore",
+      "USA",
+      "British Virgin Islands",
+      "Hong Kong",
+      "Philippines",
+      "Australia"
+    ],
+    "globeMoreLabel": "& 180+ countries"
+  },
+  "services": {
+    "title": "Practice Areas",
+    "subtitle": "Comprehensive legal and corporate advisory services across jurisdictions",
+    "practiceAreasBadge": "Practice Areas",
+    "viewAll": "View All Practice Areas",
+    "enquire": "Enquire",
+    "whatWeOffer": "What We Offer",
+    "enquireAboutService": "Enquire About This Service",
+    "items": [
+      {
+        "title": "Corporate Structuring",
+        "description": "Tailored corporate structure advisory to match your business needs. Company formation in 180+ countries including Singapore, Hong Kong, US, Dubai, and offshore jurisdictions.",
+        "icon": "building",
+        "details": [
+          "Company formation in 180+ countries",
+          "Offshore company structures (BVI, Cayman, Seychelles)",
+          "Holding company structures",
+          "Bank account opening assistance",
+          "Registered agent services",
+          "Nominee director services"
+        ]
+      },
+      {
+        "title": "Tax & Compliance",
+        "description": "Tax optimization strategies and corporate compliance advisory. We ensure your business stays compliant while maximizing efficiency across jurisdictions.",
+        "icon": "shield",
+        "details": [
+          "Multi-jurisdiction tax planning",
+          "Transfer pricing advisory",
+          "Corporate compliance monitoring",
+          "Annual filing and reporting",
+          "Tax residency optimization",
+          "Vietnam foreign investment certificates"
+        ]
+      },
+      {
+        "title": "Immigration",
+        "description": "Immigration consulting and strategy for entrepreneurs and investors. Guidance for residency through investment and company formation in target countries.",
+        "icon": "globe",
+        "details": [
+          "Investor visa advisory",
+          "Residency through investment",
+          "Business immigration",
+          "Work permit assistance",
+          "Long-term residency planning",
+          "Citizenship by investment"
+        ]
+      },
+      {
+        "title": "Contracts",
+        "description": "Drafting, reviewing, and negotiating commercial contracts. Comprehensive contract management for domestic and cross-border transactions.",
+        "icon": "file",
+        "details": [
+          "Commercial contract drafting",
+          "Contract review and negotiation",
+          "Joint venture agreements",
+          "Distribution agreements",
+          "Employment contracts",
+          "Cross-border transaction documents"
+        ]
+      },
+      {
+        "title": "IP & Technology",
+        "description": "Global intellectual property registration and protection. Trademark, software licensing, IP assignment, and technology transfer agreements.",
+        "icon": "lightbulb",
+        "details": [
+          "Trademark registration (global)",
+          "Software copyright and licensing",
+          "IP assignment agreements",
+          "Technology transfer agreements",
+          "Patent advisory",
+          "IP portfolio management"
+        ]
+      },
+      {
+        "title": "Regulatory & Licensing",
+        "description": "Regulatory compliance and licensing for specialized industries. Fintech, MSB, Gaming, and Data Privacy licensing and compliance.",
+        "icon": "certificate",
+        "details": [
+          "Fintech licensing (MSB, EMI)",
+          "Gaming license advisory",
+          "Data privacy compliance (GDPR, PDPA)",
+          "AML/KYC compliance programs",
+          "Regulatory sandbox guidance",
+          "Crypto exchange licensing"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "title": "About SOLEON",
+    "subtitle": "From a small legal advisory office to a global cross-border legal ecosystem",
+    "aboutBadge": "About SOLEON",
+    "ourJourney": "Our Journey",
+    "ourStoryBadge": "Our Story",
+    "readFullStory": "Read Our Full Story",
+    "founded": "Founded",
+    "legalEntitiesLabel": "Legal Entities",
+    "hbaCertified": "HBA Certified",
+    "credentialsTitle": "Professional Credentials",
+    "credentials": [
+      "3 lawyers certified by Vietnam Bar Federation (Đoàn Luật Sư TP. Hà Nội)",
+      "All graduated from Hanoi Law University — Vietnam's top law school",
+      "5 legal and compliance experts with international experience",
+      "12+ years of advisory and litigation experience globally"
+    ],
+    "previewCredentials": [
+      "3 lawyers · Vietnam Bar Federation",
+      "Hanoi Law University graduates, 2014",
+      "180+ countries — global reach",
+      "12+ years advisory experience"
+    ],
+    "jurisdictionsTitle": "Key Jurisdictions",
+    "registrationsTitle": "Company Registrations Completed",
+    "ctaTitle": "Ready to Work With Us?",
+    "ctaText": "Contact our team for a free initial consultation.",
+    "ctaButton": "Contact Us Today",
+    "story": "Founded by two brothers who both graduated from Hanoi Law University in 2014, SOLEON began with the belief that legal services are not just about solving problems — they are the foundation for sustainable growth in an increasingly complex business environment.",
+    "story2": "Over 12 years of operation and development, we have advised a diverse range of clients — from individuals and startups to fast-growing companies and organizations operating across Vietnam and internationally.",
+    "ecosystem": "Our current ecosystem includes:",
+    "entities": [
+      "03 member legal entities operating in Vietnam",
+      "02 legal entities in the United States (Colorado and Wyoming)"
+    ],
+    "mission": "We believe a professional advisory firm must not only understand the law, but also how businesses operate, how risks arise, and how to build sustainable development structures in a globalized environment.",
+    "stats": [
+      {
+        "value": "180+",
+        "label": "Countries Served"
+      },
+      {
+        "value": "12+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "500+",
+        "label": "Clients Served"
+      },
+      {
+        "value": "5",
+        "label": "Legal Entities"
+      }
+    ]
+  },
+  "team": {
+    "title": "Our Leadership Team",
+    "subtitle": "Experienced legal professionals dedicated to your success",
+    "teamBadge": "Our Team",
+    "ourPeopleBadge": "Our People",
+    "meetFullTeam": "Meet the Full Team",
+    "expertiseTitle": "Team Expertise",
+    "expertiseYears": "Years Combined Experience",
+    "expertiseBar": "Vietnam Bar Federation Members",
+    "expertiseCountries": "Countries Served",
+    "scheduleConsultation": "Schedule a Consultation",
+    "members": [
+      {
+        "name": "Quách Đại Nghĩa",
+        "role": "Founder & Managing Partner",
+        "credentials": "Member, Vietnam Bar Federation | Hanoi Law University, 2014",
+        "bio": "12+ years of experience in international business law, corporate structuring, and cross-border advisory."
+      },
+      {
+        "name": "Quách Đại Hiệp",
+        "role": "Co-Founder & Partner",
+        "credentials": "Member, Vietnam Bar Federation | Hanoi Law University, 2014",
+        "bio": "Expert in cross-border investment, tax compliance, and international corporate advisory."
+      },
+      {
+        "name": "Bùi Văn Thụ",
+        "role": "Senior Lawyer",
+        "credentials": "Member, Vietnam Bar Federation",
+        "bio": "Specialized in commercial litigation, contract law, and corporate governance."
+      },
+      {
+        "name": "Nguyễn Thị Huyền",
+        "role": "Senior Lawyer",
+        "credentials": "Member, Vietnam Bar Federation",
+        "bio": "Expert in civil law, inheritance, real estate, and intellectual property."
+      },
+      {
+        "name": "Lưu Quang Anh",
+        "role": "Senior Lawyer",
+        "credentials": "Member, Vietnam Bar Federation",
+        "bio": "Specialized in criminal law, administrative law, and regulatory compliance."
+      },
+      {
+        "name": "Nguyễn Phương Thảo",
+        "role": "Legal Assistant",
+        "credentials": "Member, Vietnam Bar Federation",
+        "bio": "Specialized in corporate law, commercial contracts, and investment advisory."
+      },
+      {
+        "name": "Trần Thu Hoài",
+        "role": "Legal Assistant",
+        "credentials": "Member, Vietnam Bar Federation",
+        "bio": "Specialized in labor law, family law, and dispute resolution."
+      }
+    ]
+  },
+  "industries": {
+    "title": "Industries We Serve",
+    "subtitle": "Specialized advisory for technology, finance, commerce, and manufacturing businesses expanding across borders.",
+    "industriesBadge": "Industries",
+    "allIndustriesLabel": "All Industries",
+    "globalLabel": "Global",
+    "contactUsLink": "Contact us →",
+    "heroHighlights": [
+      "Services tailored to each business model",
+      "Multi-country support",
+      "Legal, tax, and compliance advisory",
+      "Focused on implementation outcomes"
+    ],
+    "industriesListBadge": "Sector expertise",
+    "industriesListTitle": "Find your industry",
+    "industriesListDescription": "Each sector has distinct legal risks, corporate structures, and compliance requirements. Select a card to view how SOLEON can support it.",
+    "detailBadge": "Industry detail",
+    "overviewTitle": "Industry overview",
+    "servicesTitle": "Services provided",
+    "countriesTitle": "Countries supported",
+    "legalIssuesTitle": "Common legal issues",
+    "primaryCta": "Book a Free Consultation",
+    "secondaryCta": "Contact an Expert",
+    "resultLabel": "Result",
+    "items": [
+      {
+        "name": "Artificial Intelligence",
+        "short": "AI",
+        "description": "Legal structure, IP protection, and data compliance for AI products.",
+        "overview": "SOLEON helps AI startups and technology companies build legal structures for product development, IP ownership, data processing, and international fundraising.",
+        "quickServices": ["IP Protection", "Data Privacy", "AI Compliance"],
+        "services": ["AI company incorporation", "Algorithm IP protection", "Data licensing agreements", "Privacy policies", "Holding structures for intellectual property"],
+        "countries": ["Vietnam", "United States", "Singapore", "Hong Kong", "UAE"],
+        "legalIssues": ["Model and data ownership", "Cross-border data transfers", "AI terms of use", "Product liability risk"]
+      },
+      {
+        "name": "Information Technology",
+        "short": "IT",
+        "description": "Advisory for SaaS, software, outsourcing, and technology products.",
+        "overview": "We support IT companies with entity setup, technology contracts, software IP protection, security requirements, data compliance, tax, and international payments.",
+        "quickServices": ["SaaS Structure", "Software IP", "Data Privacy"],
+        "services": ["SaaS company structuring", "Software development agreements", "Software IP protection", "Data privacy compliance", "Technology M&A advisory"],
+        "countries": ["Vietnam", "United States", "Singapore", "Hong Kong", "UAE"],
+        "legalIssues": ["Source code ownership", "Cross-border service agreements", "Customer data", "Tax on software revenue"]
+      },
+      {
+        "name": "Make Money Online",
+        "short": "MMO",
+        "description": "Company structure, payment, and tax planning for online business models.",
+        "overview": "SOLEON advises creators, agencies, affiliate businesses, dropshipping operators, and digital service models on entities, payment accounts, tax obligations, and client contracts.",
+        "quickServices": ["Payment Setup", "Tax Planning", "Contracts"],
+        "services": ["Online business incorporation", "Payment gateway setup", "Multi-currency accounts", "Digital service contracts", "Cross-border tax planning"],
+        "countries": ["Vietnam", "United States", "Singapore", "Hong Kong", "UAE"],
+        "legalIssues": ["International revenue sources", "Payment accounts", "Refund policies", "Personal and corporate tax obligations"]
+      },
+      {
+        "name": "Fintech",
+        "short": "Fintech",
+        "description": "Licensing, AML/KYC, and cross-border payment compliance.",
+        "overview": "For fintech companies, we help assess licensing models, entity structures, AML/KYC policies, payment partner contracts, and market expansion strategies.",
+        "quickServices": ["MSB License", "Payment Compliance", "AML/KYC"],
+        "services": ["MSB/EMI licensing", "Payment institution setup", "AML/KYC policies", "Open banking advisory", "Cross-border payment structures"],
+        "countries": ["Vietnam", "United States", "Singapore", "Hong Kong", "UAE"],
+        "legalIssues": ["Payment licenses", "AML", "KYC", "Data protection", "Partner risk governance"]
+      },
+      {
+        "name": "E-Commerce",
+        "short": "E-commerce",
+        "description": "Entities, tax, sales terms, and international commerce compliance.",
+        "overview": "SOLEON supports e-commerce businesses with company structures, website policies, marketplace terms, VAT/GST, and supplier or logistics contracts.",
+        "quickServices": ["VAT/GST", "Marketplace Terms", "Consumer Law"],
+        "services": ["Multi-country corporate setup", "Marketplace terms", "Consumer protection compliance", "Cross-border VAT/GST", "Seller agreement templates"],
+        "countries": ["Vietnam", "United States", "Singapore", "Hong Kong", "UAE"],
+        "legalIssues": ["Indirect tax", "Return policies", "Consumer protection", "Shipping and import rules"]
+      },
+      {
+        "name": "Cryptocurrency",
+        "short": "Crypto",
+        "description": "Legal structuring, AML compliance, and operating strategy for crypto.",
+        "overview": "We help crypto projects assess legal frameworks, token structures, platform terms, AML, custody, and jurisdiction selection for their operating model.",
+        "quickServices": ["Token Structure", "Crypto AML", "Exchange Licensing"],
+        "services": ["Crypto exchange licensing", "Token legal structure", "DeFi regulatory analysis", "AML compliance for crypto", "Digital asset custody advisory"],
+        "countries": ["Vietnam", "United States", "Singapore", "Hong Kong", "UAE"],
+        "legalIssues": ["Token classification", "AML for digital assets", "Exchange licensing", "Token offering risk"]
+      },
+      {
+        "name": "Manufacturing",
+        "short": "Manufacturing",
+        "description": "FDI advisory, supply chain contracts, and manufacturing compliance.",
+        "overview": "SOLEON supports manufacturing companies with investment structures, entity setup, supply contracts, labor, environmental, import/export compliance, and market expansion.",
+        "quickServices": ["FDI Advisory", "Supply Contracts", "Trade Compliance"],
+        "services": ["FDI structure advisory", "Supply chain contracts", "Environmental compliance", "Labor compliance", "Export/import regulations"],
+        "countries": ["Vietnam", "United States", "Singapore", "Hong Kong", "UAE"],
+        "legalIssues": ["Investment permits", "Supplier contracts", "Labor compliance", "Import/export rules"]
+      }
+    ],
+    "expertiseBadge": "Industry Expertise",
+    "expertiseTitle": "Proven sector capability",
+    "expertiseDescription": "Practical experience across legal filings, compliance, and corporate structures for international clients.",
+    "expertiseStats": [
+      { "value": "50+", "label": "Matters handled" },
+      { "value": "10+", "label": "Countries supported" },
+      { "value": "8+", "label": "Years of experience" },
+      { "value": "200+", "label": "Businesses advised" }
+    ],
+    "caseStudiesBadge": "Representative Projects",
+    "caseStudiesTitle": "Experience by business model",
+    "caseStudiesDescription": "Selected examples are anonymized to protect client identity.",
+    "caseStudies": [
+      { "title": "AI Startup", "industry": "AI", "country": "United States", "summary": "Supported U.S. company formation and intellectual property preparation for an AI product.", "result": "Entity structure ready for fundraising and product commercialization." },
+      { "title": "Fintech Company", "industry": "Fintech", "country": "Singapore", "summary": "Advised on corporate structure, AML/KYC policy, and cross-border payment compliance.", "result": "Compliance package prepared for banking and payment partner discussions." },
+      { "title": "E-commerce Business", "industry": "E-commerce", "country": "Hong Kong", "summary": "Set up company structure, sales terms, and international tax approach for multi-market sales.", "result": "E-commerce operation launched with clearer tax and payment structure." }
+    ],
+    "jurisdictionsBadge": "Jurisdictions We Support",
+    "jurisdictionsTitle": "Supported jurisdictions",
+    "jurisdictionsDescription": "Key markets for company formation, compliance, tax, IP, and international business expansion.",
+    "jurisdictionServices": "Services",
+    "jurisdictionTimeline": "Timeline",
+    "jurisdictionScope": "Scope",
+    "jurisdictions": [
+      { "name": "Vietnam", "flag": "🇻🇳", "services": "FDI, legal, tax, labor", "timeline": "2 - 6 weeks", "scope": "Setup, contracts, operating compliance" },
+      { "name": "Singapore", "flag": "🇸🇬", "services": "Holding, fintech, IP, GST", "timeline": "1 - 3 weeks", "scope": "Regional structure and ASEAN expansion" },
+      { "name": "United States", "flag": "🇺🇸", "services": "LLC, C-Corp, EIN, IP", "timeline": "1 - 4 weeks", "scope": "Entity, tax, accounts, and fundraising" },
+      { "name": "Hong Kong", "flag": "🇭🇰", "services": "Trading, holding, banking", "timeline": "1 - 3 weeks", "scope": "International trade and payment structure" },
+      { "name": "UAE", "flag": "🇦🇪", "services": "Freezone, tax residency, licensing", "timeline": "2 - 5 weeks", "scope": "Middle East expansion and international structuring" }
+    ],
+    "faqBadge": "Industry FAQ",
+    "faqTitle": "Frequently asked questions",
+    "faqs": [
+      { "question": "What license does a fintech company need?", "answer": "Depending on the model, fintech businesses may need MSB, EMI, payment institution, or related AML/KYC and data protection registrations." },
+      { "question": "How do I form an AI company in the United States?", "answer": "Typical steps include choosing entity type and state, structuring IP ownership, obtaining an EIN, setting up banking, and preparing founder or developer agreements." },
+      { "question": "Can a crypto company operate in Singapore?", "answer": "It may be possible, but the token model, custody, exchange activity, AML obligations, and licensing requirements should be assessed before launch." },
+      { "question": "What should cross-border e-commerce businesses watch for?", "answer": "Key issues include entity structure, payment gateways, VAT/GST, sales terms, return policies, consumer protection, and logistics." }
+    ],
+    "ctaBadge": "Start your sector assessment",
+    "ctaTitle": "Need the right structure for your industry?",
+    "ctaResponse": "Response within 24 hours",
+    "ctaFreeConsultation": "Free preliminary consultation"
+  },
+  "statsSection": {
+    "badge": "By the Numbers",
+    "title": "Proven Track Record",
+    "subtitle": "Measurable outcomes built on years of cross-border legal expertise",
+    "metrics": [
+      { "value": "200+", "label": "Companies Supported", "icon": "building" },
+      { "value": "30+",  "label": "Jurisdictions Covered", "icon": "globe" },
+      { "value": "500+", "label": "Corporate Filings", "icon": "file" },
+      { "value": "95%",  "label": "Client Retention Rate", "icon": "star" },
+      { "value": "10+",  "label": "Years Experience", "icon": "clock" }
+    ]
+  },
+  "howWeWork": {
+    "badge": "Our Process",
+    "title": "How We Work",
+    "subtitle": "A structured, transparent process from first contact to long-term partnership",
+    "steps": [
+      { "number": "01", "title": "Free Consultation", "description": "We begin with a complimentary discovery call to understand your business goals, jurisdiction of interest, and regulatory requirements." },
+      { "number": "02", "title": "KYC & Assessment", "description": "Our team conducts due diligence and a thorough assessment of your corporate structure needs, compliance obligations, and risk profile." },
+      { "number": "03", "title": "Corporate Setup", "description": "We execute the incorporation, entity registration, and documentation — whether in Singapore, Hong Kong, UAE, US, or offshore jurisdictions." },
+      { "number": "04", "title": "Compliance & Filing", "description": "All statutory filings, annual compliance, tax registrations, and ongoing regulatory requirements are handled by our experts." },
+      { "number": "05", "title": "Ongoing Support", "description": "We become your long-term partner — available for follow-on advisory, restructuring, licensing, and cross-border expansion." }
+    ]
+  },
+  "globalCoverage": {
+    "badge": "Global Reach",
+    "title": "Our Jurisdictions",
+    "subtitle": "Strategic locations covering Asia-Pacific, Middle East, Americas, and offshore centers",
+    "jurisdictions": [
+      { "name": "Singapore", "flag": "🇸🇬", "highlight": "Asia-Pacific Hub", "services": ["Company Incorporation", "Employment Pass", "Fund Setup", "GST Registration"] },
+      { "name": "Hong Kong", "flag": "🇭🇰", "highlight": "Gateway to China", "services": ["BRC & HKID", "Holding Structure", "Open Banking Setup", "Tax Planning"] },
+      { "name": "Vietnam", "flag": "🇻🇳", "highlight": "ASEAN Growth Market", "services": ["FDI Advisory", "IRC / ERC", "Labor Compliance", "Local M&A"] },
+      { "name": "UAE / Dubai", "flag": "🇦🇪", "highlight": "Middle East Gateway", "services": ["Freezone Company", "DIFC Setup", "Tax Residency", "Golden Visa"] },
+      { "name": "United Kingdom", "flag": "🇬🇧", "highlight": "European Access", "services": ["Ltd Company", "VAT Registration", "EMI Licensing", "Branch Office"] },
+      { "name": "United States", "flag": "🇺🇸", "highlight": "World's Largest Market", "services": ["LLC / C-Corp", "EIN & Banking", "Delaware Setup", "EB-5 Advisory"] },
+      { "name": "BVI", "flag": "🏝️", "highlight": "Offshore Holding", "services": ["IBC Formation", "Privacy Structure", "Asset Protection", "Nominee Services"] },
+      { "name": "Cayman Islands", "flag": "🏝️", "highlight": "Fund & Finance Hub", "services": ["SPC Fund", "Crypto Licensing", "Hedge Fund Setup", "KYC Compliance"] }
+    ]
+  },
+  "testimonials": {
+    "badge": "Client Testimonials",
+    "title": "What Our Clients Say",
+    "subtitle": "Trusted by founders, executives, and entrepreneurs across 30+ jurisdictions",
+    "items": [
+      { "quote": "SOLEON helped us establish our Singapore holding structure in under 3 weeks. Their understanding of cross-border corporate law is exceptional — they handled everything from incorporation to banking setup seamlessly.", "author": "Michael T.", "role": "CEO & Founder", "company": "SaaS Company, United States", "country": "🇺🇸" },
+      { "quote": "We needed to expand from Vietnam into Hong Kong quickly. SOLEON's team understood our business model immediately and delivered a tax-efficient structure that exceeded our expectations.", "author": "Nguyen V.H.", "role": "Managing Director", "company": "E-commerce Group, Vietnam", "country": "🇻🇳" },
+      { "quote": "Professional, responsive, and truly global in their thinking. They guided us through UAE freezone registration and banking with zero complications. Highly recommended for any cross-border business.", "author": "James O.", "role": "Co-Founder", "company": "Fintech Startup, United Kingdom", "country": "🇬🇧" },
+      { "quote": "SOLEON's expertise in crypto regulatory compliance saved us months of research and regulatory risk. Their licensing advisory for our exchange was thorough and commercially practical.", "author": "Alex K.", "role": "Chief Legal Officer", "company": "Crypto Exchange, Estonia", "country": "🇪🇪" }
+    ]
+  },
+  "caseStudies": {
+    "badge": "Completed Projects",
+    "title": "Projects Completed",
+    "subtitle": "Representative projects delivered for clients, anonymized to protect confidential information",
+    "items": [
+      {
+        "tag": "Corporate Structuring",
+        "title": "US SaaS Startup → Singapore Holding Structure",
+        "context": "A US-based SaaS company with global customers needed a tax-efficient holding structure to manage IP, receive foreign revenue, and facilitate future fundraising.",
+        "solution": "SOLEON established a Singapore private limited company as the IP holding entity, with a US subsidiary for operations. We handled ACRA registration, nominee director, and DBS business account opening.",
+        "result": "Reduced effective tax rate on IP income from 21% to 17%. Company closed its Series A round within 6 months of restructuring.",
+        "tags": ["Singapore", "IP Holding", "Tax Planning"]
+      },
+      {
+        "tag": "Market Expansion",
+        "title": "Vietnam Manufacturer → Hong Kong Expansion",
+        "context": "A Vietnamese manufacturing group needed a Hong Kong entity to facilitate international trade invoicing, improve banking access, and attract foreign distribution partners.",
+        "solution": "SOLEON incorporated a Hong Kong limited company, set up with major international banks, and drafted distributor agreements compliant with both HK and international law.",
+        "result": "Client secured 3 new European distribution contracts within 4 months. Banking setup completed in 2 weeks.",
+        "tags": ["Hong Kong", "Trade Finance", "Contracts"]
+      },
+      {
+        "tag": "Fintech Licensing",
+        "title": "Fintech Startup → UAE Freezone Setup",
+        "context": "A UK-based fintech startup needed a Middle East presence with proper payment licensing to serve GCC clients without the regulatory burden of mainland UAE.",
+        "solution": "SOLEON advised on DIFC vs ADGM structure, completed DIFC freezone incorporation, and coordinated with local counsel on DFSA financial services licensing.",
+        "result": "Licensed and operational in 8 weeks. Client onboarded first GCC enterprise client within 3 months.",
+        "tags": ["UAE", "DIFC", "Fintech Licensing"]
+      }
+    ]
+  },
+  "partners": {
+    "title": "Partners & Ecosystem",
+    "subtitle": "Integrated with leading global platforms to power your cross-border operations",
+    "techBadge": "Technology Partners",
+    "networkBadge": "Professional Network",
+    "techTitle": "Technology & Banking Partners",
+    "networkTitle": "Regional Professional Network",
+    "activeNetwork": "Active Network",
+    "networkItems": [
+      { "name": "Singapore Partners", "flag": "🇸🇬" },
+      { "name": "Hong Kong Partners", "flag": "🇭🇰" },
+      { "name": "Vietnam Partners",   "flag": "🇻🇳" },
+      { "name": "UAE Partners",       "flag": "🇦🇪" }
+    ]
+  },
+  "contact": {
+    "title": "Contact an Expert",
+    "subtitle": "Contact SOLEON's expert team for consultation on company formation, legal matters, tax, intellectual property, and international business expansion.",
+    "contactBadge": "International Advisory",
+    "heroHighlights": [
+      "Response within 24 business hours",
+      "Free preliminary consultation",
+      "Multi-country support",
+      "Client information confidentiality"
+    ],
+    "formHeading": "Consultation Request",
+    "formTitle": "Share your details so we can assess your advisory needs",
+    "formName": "Full name",
+    "formEmail": "Email",
+    "formPhone": "Phone number",
+    "clientType": "Client type",
+    "clientTypes": ["Individual", "Business"],
+    "countriesInterested": "Countries of interest",
+    "countryOptions": ["Vietnam", "Singapore", "United States", "Hong Kong", "UAE", "Other"],
+    "servicesInterested": "Services of interest",
+    "serviceOptions": [
+      "Company formation",
+      "Tax & Compliance",
+      "Accounting",
+      "Intellectual property",
+      "Immigration",
+      "Business licensing",
+      "Legal advisory",
+      "Other"
+    ],
+    "budget": "Estimated budget",
+    "budgetPlaceholder": "Select a budget if available",
+    "budgetOptions": ["Under USD 1,000", "USD 1,000 - 5,000", "USD 5,000 - 10,000", "Over USD 10,000"],
+    "consultationDate": "Preferred consultation date",
+    "consultationTime": "Preferred consultation time",
+    "meetingPlatform": "Online meeting platform",
+    "meetingPlaceholder": "Select platform",
+    "bookingPlatforms": ["Calendly", "Google Calendar", "Microsoft Bookings"],
+    "formMessage": "Request details",
+    "messagePlaceholder": "Describe your needs, target jurisdictions, preferred timeline, and topics for consultation.",
+    "formSubmit": "Book a Free Consultation",
+    "formSending": "Sending request...",
+    "formDisclaimer": "Submitting this form does not create an attorney-client relationship. Your information is handled confidentially and used only to assess your consultation request.",
+    "validationError": "Please select a client type, countries of interest, and services of interest.",
+    "sendError": "Failed to send. Please try again or email us directly.",
+    "messageSent": "Request submitted",
+    "successMessage": "Thank you for contacting us. We will respond within 24 business hours.",
+    "backHome": "Back to home",
+    "sendNewRequest": "Send a new request",
+    "contactInfoTitle": "Contact information",
+    "contactMethods": [
+      { "label": "Email", "value": "Hiep.Quach@soleonconllc.com", "href": "mailto:Hiep.Quach@soleonconllc.com", "description": "Primary contact email" },
+      { "label": "Hotline", "value": "+1 (307) 240-0206", "href": "tel:+13072400206", "description": "International advisory support" },
+      { "label": "WhatsApp", "value": "0389396996", "href": "https://wa.me/84389396996", "description": "Quick WhatsApp communication" },
+      { "label": "WeChat", "value": "wxid_s63uhd6gjcka12", "description": "WeChat ID · Phone: 0389396996" },
+      { "label": "Business hours", "value": "Monday to Friday", "description": "Support across Vietnam and United States time zones" }
+    ],
+    "officeTitle": "Offices",
+    "offices": [
+      { "country": "Vietnam Office", "city": "Hanoi", "address": "Số 41 Ngõ 113 Hoàng Cầu, Đống Đa, Hà Nội, Việt Nam", "type": "Coordination office", "mapX": 76, "mapY": 55 },
+      { "country": "Wyoming Office", "city": "Sheridan", "address": "30 N Gould St Ste R, Sheridan, WY 82801, United States", "type": "Registered office", "mapX": 20, "mapY": 43 },
+      { "country": "Colorado Office", "city": "Boulder", "address": "1942 Broadway St., STE 314C, Boulder CO 80302, United States", "type": "Representative office", "mapX": 22, "mapY": 48 }
+    ],
+    "whyBadge": "Why choose SOLEON",
+    "whyTitle": "Advisory capability for international clients",
+    "reasons": [
+      "Response within 24 business hours",
+      "Multi-country support",
+      "Legal and business experts",
+      "Client information confidentiality",
+      "Free preliminary consultation"
+    ],
+    "bookingTitle": "Book a Consultation",
+    "bookingDescription": "Select a preferred date, time, and online meeting platform in the form. SOLEON will confirm a suitable appointment by email or phone.",
+    "mapTitle": "Office map",
+    "mapDescription": "Select a marker on the map to view the office address in Hanoi, Wyoming, or Colorado.",
+    "faqTitle": "Frequently asked questions",
+    "faqs": [
+      { "question": "How long does it take to receive a response?", "answer": "Within 24 business hours." },
+      { "question": "Is the consultation free?", "answer": "Yes. We provide a free preliminary consultation." },
+      { "question": "Which countries does SOLEON support?", "answer": "Vietnam, United States, Singapore, Hong Kong, and other regions." },
+      { "question": "Is client information confidential?", "answer": "All information is protected under SOLEON's privacy policy." }
+    ]
+  },
+  "footer": {
+    "tagline": "Your trusted cross-border legal and corporate advisory partner.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "attorneyDisclaimer": "Attorney Advertising",
+    "noRelationship": "No Attorney-Client Relationship",
+    "officesTitle": "Offices",
+    "serviceLinks": [
+      "Corporate Structuring",
+      "Tax & Compliance",
+      "Immigration",
+      "IP & Technology",
+      "Regulatory & Licensing"
+    ],
+    "copyright": "© 2026 SOLEON LLC. All rights reserved.",
+    "disclaimer": "SOLEON provides legal information, not legal advice. Contacting us does not establish an attorney-client relationship."
+  },
+  "contactCta": {
+    "badge": "Get Started Today",
+    "title": "Ready to Expand Globally?",
+    "subtitle": "Schedule a free consultation with our legal experts and take the first step toward your global business goals.",
+    "bookButton": "Book a Free Consultation",
+    "emailButton": "Email Us Directly",
+    "trustItems": [
+      "Free initial consultation",
+      "24h response time",
+      "Confidential & secure",
+      "180+ countries covered"
+    ]
+  },
+  "compliance": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "lastUpdated": "Last Updated: January 1, 2024",
+      "sections": [
+        {
+          "heading": "1. Information We Collect",
+          "body": "SOLEON LLC (\"SOLEON,\" \"we,\" \"us,\" or \"our\") collects information you provide directly to us, such as when you fill out a contact form, request a consultation, or communicate with us via email. This may include your name, email address, phone number, and the nature of your legal inquiry."
+        },
+        {
+          "heading": "2. How We Use Your Information",
+          "body": "We use the information we collect to respond to your inquiries, provide legal advisory services, comply with applicable laws and regulations, and improve our website and services. We do not sell your personal information to third parties."
+        },
+        {
+          "heading": "3. Information Sharing",
+          "body": "We may share your information with trusted service providers who assist us in operating our website and conducting our business, provided they agree to keep this information confidential. We may also disclose information when required by law or to protect our rights."
+        },
+        {
+          "heading": "4. Data Retention",
+          "body": "We retain personal information for as long as necessary to fulfill the purposes for which it was collected, including for the purposes of satisfying any legal, accounting, or reporting requirements."
+        },
+        {
+          "heading": "5. Security",
+          "body": "We implement appropriate technical and organizational measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction."
+        },
+        {
+          "heading": "6. Your Rights",
+          "body": "Depending on your location, you may have rights regarding your personal data, including the right to access, correct, or delete your personal information. To exercise these rights, please contact us at Hiep.Quach@soleonconllc.com."
+        },
+        {
+          "heading": "7. Contact Us",
+          "body": "If you have questions about this Privacy Policy, please contact us at:",
+          "email": "Hiep.Quach@soleonconllc.com"
+        }
+      ]
+    },
+    "terms": {
+      "title": "Terms of Use",
+      "lastUpdated": "Last Updated: January 1, 2024",
+      "sections": [
+        {
+          "heading": "1. Acceptance of Terms",
+          "body": "By accessing and using the SOLEON website (soleonconllc.com), you accept and agree to be bound by these Terms of Use. If you do not agree to these terms, please do not use this website."
+        },
+        {
+          "heading": "2. Legal Information Only",
+          "body": "The content on this website is provided for general informational purposes only and does not constitute legal advice. The information provided should not be relied upon as a substitute for consultation with a qualified attorney. We encourage you to seek professional legal advice for your specific situation."
+        },
+        {
+          "heading": "3. No Attorney-Client Relationship",
+          "body": "Accessing this website or submitting information through our contact forms does not create an attorney-client relationship between you and SOLEON. An attorney-client relationship is only established through a formal written engagement agreement signed by both parties."
+        },
+        {
+          "heading": "4. Intellectual Property",
+          "body": "All content on this website, including text, graphics, logos, and images, is the property of SOLEON LLC and is protected by applicable intellectual property laws. You may not reproduce, distribute, or create derivative works without our written permission."
+        },
+        {
+          "heading": "5. Limitation of Liability",
+          "body": "SOLEON shall not be liable for any direct, indirect, incidental, special, or consequential damages arising from your use of, or inability to use, this website or its content."
+        },
+        {
+          "heading": "6. Governing Law",
+          "body": "These Terms of Use shall be governed by and construed in accordance with the laws of Vietnam and the applicable laws of the United States."
+        }
+      ]
+    },
+    "attorney": {
+      "title": "Attorney Advertising Disclaimer",
+      "lastUpdated": "Last Updated: January 1, 2024",
+      "noticeBadge": "ATTORNEY ADVERTISING NOTICE",
+      "noticeText": "This website constitutes attorney advertising under applicable rules of professional conduct.",
+      "sections": [
+        {
+          "heading": "Attorney Advertising",
+          "body": "This website and its contents may constitute attorney advertising under the rules and regulations of applicable bar associations, including the Vietnam Bar Federation and applicable U.S. state bar rules. Prior results described on this website do not guarantee a similar outcome in future matters."
+        },
+        {
+          "heading": "No Guarantee of Results",
+          "body": "Case results and testimonials described on this website are not guarantees or predictions of the outcome of any future legal matter. Each case is unique and results may vary depending on the facts and legal issues involved."
+        },
+        {
+          "heading": "Jurisdictional Limitations",
+          "body": "SOLEON's attorneys are licensed to practice law in Vietnam. Services in other jurisdictions are provided in coordination with locally licensed attorneys and advisors. Nothing on this website should be construed as the unauthorized practice of law in any jurisdiction."
+        },
+        {
+          "heading": "Contact Information",
+          "body": "Principal office: Số 41 Ngõ 113 Hoàng Cầu, Đống Đa, Hà Nội, Việt Nam",
+          "email": "Hiep.Quach@soleonconllc.com"
+        }
+      ]
+    },
+    "noRelationship": {
+      "title": "No Attorney-Client Relationship Disclaimer",
+      "lastUpdated": "Last Updated: January 1, 2024",
+      "noticeBadge": "IMPORTANT NOTICE",
+      "noticeText": "Submitting a contact form, sending an email, or visiting this website does NOT create an attorney-client relationship with SOLEON or any of its attorneys.",
+      "sections": [
+        {
+          "heading": "No Attorney-Client Relationship",
+          "body": "The use of this website, submission of information through contact forms, or communication with SOLEON via email or other means does not create an attorney-client relationship. An attorney-client relationship is only formed when:",
+          "list": [
+            "SOLEON has expressly agreed in writing to represent you",
+            "A formal engagement letter or retainer agreement has been signed by both parties",
+            "All applicable conflict-of-interest checks have been completed"
+          ]
+        },
+        {
+          "heading": "Confidentiality of Information Submitted",
+          "body": "Information submitted through this website before an attorney-client relationship is established is not necessarily protected by attorney-client privilege. Please do not submit highly sensitive or confidential information through the contact form before an engagement has been formally established."
+        },
+        {
+          "heading": "No Legal Advice",
+          "body": "The information on this website is provided for general informational purposes only and does not constitute legal advice. You should not act upon information found on this website without first seeking legal counsel from a qualified attorney who is familiar with the specific facts of your situation."
+        },
+        {
+          "heading": "Establishing a Client Relationship",
+          "body": "If you wish to engage SOLEON as your legal advisor, please contact us to schedule a formal consultation. After our initial consultation and conflict check, we will provide you with a formal engagement letter if we are able to represent you."
+        }
+      ]
+    }
+  },
+  "floatingContact": {
+    "quickContact": "Quick contact",
+    "showAria": "Show contact options",
+    "hideAria": "Hide contact options",
+    "channelAria": "Contact SOLEON via {channel}",
+    "wechatAria": "Copy SOLEON WeChat ID",
+    "callAria": "Call SOLEON hotline",
+    "zalo": "Zalo",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "wechat": "WeChat",
+    "copied": "Copied",
+    "callHotline": "Call hotline"
+  },
+  "completedWork": {
+    "badge": "Track Record",
+    "title": "Completed Client Work",
+    "subtitle": "Verified deliverables across jurisdictions — business registration certificates issued to our clients.",
+    "items": [
+      {
+        "flag": "🇸🇬",
+        "location": "Singapore",
+        "label": "Business Registration Certificate"
+      },
+      {
+        "flag": "🇺🇸",
+        "location": "Wyoming · Texas · Colorado · Washington",
+        "label": "Business Registration Certificate"
+      },
+      {
+        "flag": "🇭🇰",
+        "location": "Hong Kong",
+        "label": "Business Registration Certificate"
+      },
+      {
+        "flag": "🇲🇹",
+        "location": "Malta",
+        "label": "Business Registration Certificate"
+      },
+      {
+        "flag": "🏝️",
+        "location": "BVI · Seychelles · Cook Islands · Cayman",
+        "label": "Business Registration Certificate"
+      }
+    ]
+  }
+}

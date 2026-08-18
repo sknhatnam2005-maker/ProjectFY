@@ -1,0 +1,772 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "about": "会社概要",
+    "services": "業務分野",
+    "industries": "対応業界",
+    "team": "チーム",
+    "contact": "お問い合わせ",
+    "bookConsultation": "相談予約",
+    "subtitle": "法律・アドバイザリー"
+  },
+  "hero": {
+    "tagline": "クロスボーダー法律・企業アドバイザリー",
+    "subtitle": "個人と企業のグローバルな法的課題を解決します。会社設立から越境投資、税務コンプライアンス、知的財産保護まで。",
+    "badge": "ベトナム弁護士連盟 · 180カ国以上サービス提供",
+    "availableNow": "受付中",
+    "freeConsultation": "無料初回相談",
+    "cta": "無料相談を予約する",
+    "ctaSecondary": "詳しく見る",
+    "stats": {
+      "countries": "180+",
+      "countriesLabel": "サービス提供国",
+      "experience": "12+",
+      "experienceLabel": "年の実績",
+      "lawyers": "3",
+      "lawyersLabel": "認定弁護士",
+      "experts": "5",
+      "expertsLabel": "法律専門家"
+    },
+    "keyJurisdictions": "主要管轄区域",
+    "scroll": "スクロール",
+    "globeWeLabel": "弊社",
+    "jurisdictions": [
+      "シンガポール",
+      "香港",
+      "アメリカ",
+      "ドバイ",
+      "英領バージン諸島",
+      "EU",
+      "ASEAN",
+      "ケイマン諸島"
+    ],
+    "globePins": [
+      "シンガポール",
+      "アメリカ",
+      "英領ヴァージン諸島",
+      "香港",
+      "フィリピン",
+      "オーストラリア"
+    ],
+    "globeMoreLabel": "& 180+カ国"
+  },
+  "services": {
+    "title": "業務分野",
+    "subtitle": "複数の管轄にわたる包括的な法律・企業アドバイザリーサービス",
+    "practiceAreasBadge": "業務分野",
+    "viewAll": "すべての業務分野を見る",
+    "enquire": "お問い合わせ",
+    "whatWeOffer": "サービス内容",
+    "enquireAboutService": "このサービスについてお問い合わせ",
+    "items": [
+      {
+        "title": "企業構造コンサルティング",
+        "description": "お客様のニーズに合わせた企業構造のアドバイス。シンガポール、香港、米国、ドバイを含む180カ国以上での会社設立。",
+        "icon": "building",
+        "details": [
+          "180カ国以上での会社設立",
+          "オフショア会社構造（BVI、ケイマン、セーシェル）",
+          "持株会社構造",
+          "銀行口座開設支援",
+          "登録エージェントサービス",
+          "名義取締役サービス"
+        ]
+      },
+      {
+        "title": "税務・コンプライアンス",
+        "description": "税務最適化戦略と企業コンプライアンスのアドバイス。複数の管轄にわたって効率を最大化しながらコンプライアンスを確保。",
+        "icon": "shield",
+        "details": [
+          "多管轄税務計画",
+          "移転価格アドバイザリー",
+          "企業コンプライアンス監視",
+          "年次申告・報告",
+          "税務居住地最適化",
+          "ベトナム外国投資証明書"
+        ]
+      },
+      {
+        "title": "移民・ビザ",
+        "description": "起業家・投資家向けの移民コンサルティングと戦略。対象国での投資・会社設立による居住権取得のガイダンス。",
+        "icon": "globe",
+        "details": [
+          "投資家ビザアドバイザリー",
+          "投資による居住権",
+          "ビジネス移民",
+          "就労許可支援",
+          "長期居住計画",
+          "投資による市民権"
+        ]
+      },
+      {
+        "title": "契約",
+        "description": "商業契約の起草、レビュー、交渉。国内外の取引における包括的な契約管理。",
+        "icon": "file",
+        "details": [
+          "商業契約起草",
+          "契約レビューと交渉",
+          "合弁事業契約",
+          "販売代理店契約",
+          "雇用契約",
+          "越境取引書類"
+        ]
+      },
+      {
+        "title": "知的財産・テクノロジー",
+        "description": "グローバルな知的財産の登録と保護。商標、ソフトウェアライセンス、IP譲渡、技術移転契約。",
+        "icon": "lightbulb",
+        "details": [
+          "商標登録（グローバル）",
+          "ソフトウェア著作権・ライセンス",
+          "IP譲渡契約",
+          "技術移転契約",
+          "特許アドバイザリー",
+          "IPポートフォリオ管理"
+        ]
+      },
+      {
+        "title": "規制・ライセンス",
+        "description": "専門業界向けの規制コンプライアンスとライセンス。フィンテック、MSB、ゲーミング、データプライバシーのライセンスとコンプライアンス。",
+        "icon": "certificate",
+        "details": [
+          "フィンテックライセンス（MSB、EMI）",
+          "ゲーミングライセンスアドバイザリー",
+          "データプライバシーコンプライアンス（GDPR、PDPA）",
+          "AML/KYCコンプライアンスプログラム",
+          "規制サンドボックスガイダンス",
+          "暗号資産取引所ライセンス"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "title": "SOLEONについて",
+    "subtitle": "小さな法律事務所からグローバルなクロスボーダー法律エコシステムへ",
+    "aboutBadge": "SOLEONについて",
+    "ourJourney": "私たちの歩み",
+    "ourStoryBadge": "私たちのストーリー",
+    "readFullStory": "全文を読む",
+    "founded": "設立",
+    "legalEntitiesLabel": "法人数",
+    "hbaCertified": "HBA認定",
+    "credentialsTitle": "専門資格",
+    "credentials": [
+      "ベトナム弁護士連盟（ハノイ）認定の弁護士3名",
+      "ベトナムトップのハノイ法科大学卒業",
+      "国際経験を持つ法律・コンプライアンス専門家5名",
+      "グローバルなアドバイザリーおよび訴訟12年以上の経験"
+    ],
+    "previewCredentials": [
+      "弁護士3名 · ベトナム弁護士連盟",
+      "ハノイ法科大学卒業、2014年",
+      "180カ国以上 — グローバルリーチ",
+      "12年以上のアドバイザリー経験"
+    ],
+    "jurisdictionsTitle": "主要管轄",
+    "registrationsTitle": "会社登記実績",
+    "ctaTitle": "ご一緒に仕事をしませんか？",
+    "ctaText": "無料の初回相談についてチームにお問い合わせください。",
+    "ctaButton": "今すぐお問い合わせ",
+    "story": "2014年にハノイ法科大学を卒業した兄弟2人によって設立されたSOLEONは、法律サービスは単に問題を解決するだけでなく、ますます複雑化するビジネス環境における持続可能な成長の基盤であるという信念のもとに始まりました。",
+    "story2": "12年以上の運営と発展を経て、私たちはベトナム国内外で活動する個人、スタートアップ、急成長企業、組織まで多様なクライアントにアドバイスを提供してきました。",
+    "ecosystem": "現在のエコシステムには以下が含まれます：",
+    "entities": [
+      "ベトナムで活動する03の法人メンバー",
+      "米国（コロラドおよびワイオミング）の02の法人"
+    ],
+    "mission": "私たちは、プロフェッショナルなアドバイザリー会社は法律を理解するだけでなく、ビジネスがどのように機能し、リスクがどのように発生し、グローバル化した環境でどのように持続可能な発展構造を構築するかを理解する必要があると考えています。",
+    "stats": [
+      {
+        "value": "180+",
+        "label": "サービス提供国"
+      },
+      {
+        "value": "12+",
+        "label": "年の実績"
+      },
+      {
+        "value": "500+",
+        "label": "クライアント実績"
+      },
+      {
+        "value": "5",
+        "label": "法人数"
+      }
+    ]
+  },
+  "team": {
+    "title": "リーダーシップチーム",
+    "subtitle": "お客様の成功に献身する経験豊富な法律専門家",
+    "teamBadge": "チーム",
+    "ourPeopleBadge": "私たちのチーム",
+    "meetFullTeam": "チーム全員に会う",
+    "expertiseTitle": "チームの専門知識",
+    "expertiseYears": "年の総合経験",
+    "expertiseBar": "ベトナム弁護士連盟会員",
+    "expertiseCountries": "サービス提供国",
+    "scheduleConsultation": "相談を予約する",
+    "members": [
+      {
+        "name": "クアック・ダイ・ギア",
+        "role": "創業者・マネージングパートナー",
+        "credentials": "ハノイ弁護士連盟会員 | ハノイ法科大学、2014年",
+        "bio": "国際ビジネス法、企業構造、クロスボーダーアドバイザリーにおける12年以上の経験。"
+      },
+      {
+        "name": "クアック・ダイ・ヒエップ",
+        "role": "共同創業者・パートナー",
+        "credentials": "ハノイ弁護士連盟会員 | ハノイ法科大学、2014年",
+        "bio": "越境投資、税務コンプライアンス、国際企業アドバイザリーの専門家。"
+      },
+      {
+        "name": "ブイ・ヴァン・トゥ",
+        "role": "シニア弁護士",
+        "credentials": "ハノイ弁護士連盟会員",
+        "bio": "商事訴訟、契約法、コーポレートガバナンスの専門家。"
+      },
+      {
+        "name": "グエン・ティ・フエン",
+        "role": "シニア弁護士",
+        "credentials": "ハノイ弁護士連盟会員",
+        "bio": "民法、相続、不動産、知的財産の専門家。"
+      },
+      {
+        "name": "ルウ・クアン・アン",
+        "role": "シニア弁護士",
+        "credentials": "ハノイ弁護士連盟会員",
+        "bio": "刑事法、行政法、規制コンプライアンスの専門家。"
+      },
+      {
+        "name": "グエン・フオン・タオ",
+        "role": "パラリーガル",
+        "credentials": "ハノイ弁護士連盟会員",
+        "bio": "企業法、商事契約、投資アドバイザリーの専門家。"
+      },
+      {
+        "name": "チャン・トゥ・ホアイ",
+        "role": "パラリーガル",
+        "credentials": "ハノイ弁護士連盟会員",
+        "bio": "労働法、家族法、紛争解決の専門家。"
+      }
+    ]
+  },
+  "industries": {
+    "title": "対応業界",
+    "subtitle": "テクノロジー、金融、コマース、製造業のクロスボーダー展開に対応する専門アドバイザリー。",
+    "industriesBadge": "対応業界",
+    "allIndustriesLabel": "全業界",
+    "globalLabel": "グローバル",
+    "contactUsLink": "お問い合わせ →",
+    "heroHighlights": [
+      "ビジネスモデル別のサービス",
+      "複数国に対応",
+      "法務・税務・コンプライアンス支援",
+      "実行結果にフォーカス"
+    ],
+    "industriesListBadge": "業界専門性",
+    "industriesListTitle": "該当する業界を選択",
+    "industriesListDescription": "各業界には固有の法的リスク、企業構造、コンプライアンス要件があります。カードを選択すると支援内容を確認できます。",
+    "detailBadge": "業界詳細",
+    "overviewTitle": "業界概要",
+    "servicesTitle": "提供サービス",
+    "countriesTitle": "対応国",
+    "legalIssuesTitle": "よくある法的課題",
+    "primaryCta": "無料相談を予約する",
+    "secondaryCta": "専門家に相談する",
+    "resultLabel": "成果",
+    "items": [
+      {
+        "name": "人工知能",
+        "short": "AI",
+        "description": "AI製品向けの法的構造、IP保護、データコンプライアンス。",
+        "overview": "SOLEONはAIスタートアップとテクノロジー企業に対し、製品開発、IP所有、データ処理、国際資金調達に適した法的構造を支援します。",
+        "quickServices": ["IP Protection", "Data Privacy", "AI Compliance"],
+        "services": ["AI企業設立", "アルゴリズムIP保護", "データライセンス契約", "プライバシーポリシー", "知的財産保有構造"],
+        "countries": ["ベトナム", "米国", "シンガポール", "香港", "UAE"],
+        "legalIssues": ["モデルとデータの所有権", "越境データ移転", "AI利用規約", "製品責任リスク"]
+      },
+      {
+        "name": "情報技術",
+        "short": "IT",
+        "description": "SaaS、ソフトウェア、アウトソーシング、IT製品向け支援。",
+        "overview": "IT企業の法人設立、技術契約、ソフトウェアIP保護、セキュリティ、データ、税務、国際決済をサポートします。",
+        "quickServices": ["SaaS Structure", "Software IP", "Data Privacy"],
+        "services": ["SaaS企業構造", "ソフトウェア開発契約", "ソフトウェアIP保護", "データプライバシー対応", "テクノロジーM&A支援"],
+        "countries": ["ベトナム", "米国", "シンガポール", "香港", "UAE"],
+        "legalIssues": ["ソースコード所有権", "越境サービス契約", "顧客データ", "ソフトウェア収益の税務"]
+      },
+      {
+        "name": "オンラインビジネス",
+        "short": "MMO",
+        "description": "オンライン事業向けの法人構造、決済、税務設計。",
+        "overview": "クリエイター、代理店、アフィリエイト、ドロップシッピング、デジタルサービス事業者向けに、法人、決済口座、税務、顧客契約を支援します。",
+        "quickServices": ["Payment Setup", "Tax Planning", "Contracts"],
+        "services": ["オンライン事業設立", "決済ゲートウェイ設定", "マルチカレンシー口座", "デジタルサービス契約", "越境税務計画"],
+        "countries": ["ベトナム", "米国", "シンガポール", "香港", "UAE"],
+        "legalIssues": ["国際収益源", "決済口座", "返金ポリシー", "個人・法人税務"]
+      },
+      {
+        "name": "フィンテック",
+        "short": "Fintech",
+        "description": "ライセンス、AML/KYC、越境決済コンプライアンス。",
+        "overview": "フィンテック企業向けに、ライセンスモデル、法人構造、AML/KYCポリシー、決済パートナー契約、市場展開戦略を支援します。",
+        "quickServices": ["MSB License", "Payment Compliance", "AML/KYC"],
+        "services": ["MSB/EMIライセンス", "決済機関設立", "AML/KYCポリシー", "オープンバンキング支援", "越境決済構造"],
+        "countries": ["ベトナム", "米国", "シンガポール", "香港", "UAE"],
+        "legalIssues": ["決済ライセンス", "AML", "KYC", "データ保護", "パートナーリスク管理"]
+      },
+      {
+        "name": "Eコマース",
+        "short": "E-commerce",
+        "description": "法人、税務、販売規約、国際コマースコンプライアンス。",
+        "overview": "Eコマース企業向けに、会社構造、ウェブサイトポリシー、マーケットプレイス規約、VAT/GST、サプライヤー・物流契約を支援します。",
+        "quickServices": ["VAT/GST", "Marketplace Terms", "Consumer Law"],
+        "services": ["多国籍企業構造", "マーケットプレイス規約", "消費者保護対応", "越境VAT/GST", "販売者契約テンプレート"],
+        "countries": ["ベトナム", "米国", "シンガポール", "香港", "UAE"],
+        "legalIssues": ["間接税", "返品ポリシー", "消費者保護", "配送と輸入ルール"]
+      },
+      {
+        "name": "暗号資産",
+        "short": "Crypto",
+        "description": "暗号資産向けの法的構造、AML、運営戦略。",
+        "overview": "暗号資産プロジェクトに対し、法的枠組み、トークン構造、プラットフォーム規約、AML、カストディ、管轄選定を支援します。",
+        "quickServices": ["Token Structure", "Crypto AML", "Exchange Licensing"],
+        "services": ["暗号資産取引所ライセンス", "トークン法的構造", "DeFi規制分析", "暗号資産AML", "デジタル資産カストディ支援"],
+        "countries": ["ベトナム", "米国", "シンガポール", "香港", "UAE"],
+        "legalIssues": ["トークン分類", "デジタル資産AML", "取引所ライセンス", "トークン販売リスク"]
+      },
+      {
+        "name": "製造業",
+        "short": "Manufacturing",
+        "description": "FDI、サプライチェーン契約、製造業コンプライアンス。",
+        "overview": "製造業企業に対し、投資構造、法人設立、供給契約、労務、環境、輸出入コンプライアンス、市場展開を支援します。",
+        "quickServices": ["FDI Advisory", "Supply Contracts", "Trade Compliance"],
+        "services": ["FDI構造アドバイザリー", "サプライチェーン契約", "環境コンプライアンス", "労務コンプライアンス", "輸出入規制"],
+        "countries": ["ベトナム", "米国", "シンガポール", "香港", "UAE"],
+        "legalIssues": ["投資許可", "サプライヤー契約", "労務コンプライアンス", "輸出入ルール"]
+      }
+    ],
+    "expertiseBadge": "Industry Expertise",
+    "expertiseTitle": "実績ある業界対応力",
+    "expertiseDescription": "国際クライアント向けの法務手続、コンプライアンス、企業構造に関する実務経験。",
+    "expertiseStats": [
+      { "value": "50+", "label": "対応案件" },
+      { "value": "10+", "label": "対応国" },
+      { "value": "8+", "label": "経験年数" },
+      { "value": "200+", "label": "支援企業" }
+    ],
+    "caseStudiesBadge": "代表プロジェクト",
+    "caseStudiesTitle": "ビジネスモデル別の支援経験",
+    "caseStudiesDescription": "クライアント情報保護のため、事例は匿名化しています。",
+    "caseStudies": [
+      { "title": "AI Startup", "industry": "AI", "country": "米国", "summary": "AI製品のための米国法人設立と知的財産準備を支援。", "result": "資金調達と製品商用化に対応できる法人構造を整備。" },
+      { "title": "Fintech Company", "industry": "Fintech", "country": "シンガポール", "summary": "企業構造、AML/KYCポリシー、越境決済コンプライアンスを支援。", "result": "銀行・決済パートナーとの協議に必要なコンプライアンス資料を整備。" },
+      { "title": "E-commerce Business", "industry": "E-commerce", "country": "香港", "summary": "複数市場向け販売の会社構造、販売規約、国際税務方針を支援。", "result": "税務と決済構造を明確にしたEコマース運営を開始。" }
+    ],
+    "jurisdictionsBadge": "Jurisdictions We Support",
+    "jurisdictionsTitle": "対応国",
+    "jurisdictionsDescription": "会社設立、コンプライアンス、税務、IP、国際展開の主要市場。",
+    "jurisdictionServices": "サービス",
+    "jurisdictionTimeline": "期間",
+    "jurisdictionScope": "範囲",
+    "jurisdictions": [
+      { "name": "ベトナム", "flag": "🇻🇳", "services": "FDI、法務、税務、労務", "timeline": "2 - 6週間", "scope": "設立、契約、運営コンプライアンス" },
+      { "name": "シンガポール", "flag": "🇸🇬", "services": "Holding、fintech、IP、GST", "timeline": "1 - 3週間", "scope": "地域構造とASEAN展開" },
+      { "name": "米国", "flag": "🇺🇸", "services": "LLC、C-Corp、EIN、IP", "timeline": "1 - 4週間", "scope": "法人、税務、口座、資金調達" },
+      { "name": "香港", "flag": "🇭🇰", "services": "Trading、holding、banking", "timeline": "1 - 3週間", "scope": "国際貿易と決済構造" },
+      { "name": "UAE", "flag": "🇦🇪", "services": "Freezone、tax residency、licensing", "timeline": "2 - 5週間", "scope": "中東展開と国際構造" }
+    ],
+    "faqBadge": "業界FAQ",
+    "faqTitle": "よくある質問",
+    "faqs": [
+      { "question": "Fintechにはどのライセンスが必要ですか？", "answer": "モデルにより、MSB、EMI、決済機関、AML/KYC、データ保護関連の登録が必要になる場合があります。" },
+      { "question": "米国でAI会社を設立するには？", "answer": "通常、法人形態と州の選定、IP所有構造、EIN、銀行口座、founderまたは開発者契約の準備が必要です。" },
+      { "question": "Crypto会社はシンガポールで運営できますか？", "answer": "可能な場合がありますが、トークンモデル、カストディ、取引所活動、AML、ライセンス要件を事前に評価する必要があります。" },
+      { "question": "越境Eコマースで注意すべき点は？", "answer": "法人構造、決済ゲートウェイ、VAT/GST、販売規約、返品ポリシー、消費者保護、物流が重要です。" }
+    ],
+    "ctaBadge": "業界評価を開始",
+    "ctaTitle": "業界に適した構造が必要ですか？",
+    "ctaResponse": "24時間以内に返信",
+    "ctaFreeConsultation": "初回相談無料"
+  },
+  "statsSection": {
+    "badge": "数字で見る実績",
+    "title": "証明された実績",
+    "subtitle": "越境法務の専門性に基づく、測定可能な成果",
+    "metrics": [
+      { "value": "200+", "label": "支援企業数", "icon": "building" },
+      { "value": "30+",  "label": "対応管轄区域", "icon": "globe" },
+      { "value": "500+", "label": "法人関連届出", "icon": "file" },
+      { "value": "95%",  "label": "顧客継続率", "icon": "star" },
+      { "value": "10+",  "label": "実務経験年数", "icon": "clock" }
+    ]
+  },
+  "howWeWork": {
+    "badge": "プロセス",
+    "title": "ご支援の流れ",
+    "subtitle": "初回相談から長期的なパートナーシップまで、透明性のある体系的なプロセス",
+    "steps": [
+      { "number": "01", "title": "無料相談", "description": "事業目標、対象管轄、規制要件を把握するため、初回のヒアリングを行います。" },
+      { "number": "02", "title": "KYC・評価", "description": "デューデリジェンスを行い、法人構造、コンプライアンス義務、リスクを総合的に評価します。" },
+      { "number": "03", "title": "法人設立", "description": "シンガポール、香港、UAE、米国、オフショア管轄などで、設立・登録・書類作成を実行します。" },
+      { "number": "04", "title": "コンプライアンス・届出", "description": "年次コンプライアンス、税務登録、法定届出、継続的な規制対応を専門チームが支援します。" },
+      { "number": "05", "title": "継続支援", "description": "再編、ライセンス、越境展開、追加アドバイザリーまで長期的に伴走します。" }
+    ]
+  },
+  "globalCoverage": {
+    "badge": "グローバル対応",
+    "title": "対応管轄区域",
+    "subtitle": "アジア太平洋、中東、米州、主要オフショアセンターを横断する戦略的な対応範囲",
+    "jurisdictions": [
+      { "name": "シンガポール", "flag": "🇸🇬", "highlight": "アジア太平洋ハブ", "services": ["会社設立", "Employment Pass", "ファンド設立", "GST登録"] },
+      { "name": "香港", "flag": "🇭🇰", "highlight": "中国へのゲートウェイ", "services": ["BRC・HKID", "持株構造", "銀行口座支援", "税務計画"] },
+      { "name": "ベトナム", "flag": "🇻🇳", "highlight": "ASEAN成長市場", "services": ["FDIアドバイザリー", "IRC / ERC", "労務コンプライアンス", "国内M&A"] },
+      { "name": "UAE / ドバイ", "flag": "🇦🇪", "highlight": "中東ゲートウェイ", "services": ["フリーゾーン会社", "DIFC設立", "税務居住", "ゴールデンビザ"] },
+      { "name": "英国", "flag": "🇬🇧", "highlight": "欧州アクセス", "services": ["Ltd会社", "VAT登録", "EMIライセンス", "支店設立"] },
+      { "name": "米国", "flag": "🇺🇸", "highlight": "世界最大級の市場", "services": ["LLC / C-Corp", "EIN・銀行", "デラウェア設立", "EB-5アドバイザリー"] },
+      { "name": "BVI", "flag": "🏝️", "highlight": "オフショア持株", "services": ["IBC設立", "プライバシー構造", "資産保護", "ノミニーサービス"] },
+      { "name": "ケイマン諸島", "flag": "🏝️", "highlight": "ファンド・金融ハブ", "services": ["SPCファンド", "暗号資産ライセンス", "ヘッジファンド設立", "KYC対応"] }
+    ]
+  },
+  "testimonials": {
+    "badge": "お客様の声",
+    "title": "クライアントからの評価",
+    "subtitle": "30以上の管轄区域で、創業者、経営者、起業家から信頼されています",
+    "items": [
+      { "quote": "SOLEONは、当社のシンガポール持株構造を3週間未満で構築してくれました。設立から銀行口座支援まで、非常にスムーズでした。", "author": "Michael T.", "role": "CEO・創業者", "company": "SaaS企業、米国", "country": "🇺🇸" },
+      { "quote": "ベトナムから香港への迅速な展開が必要でした。SOLEONのチームは事業モデルをすぐに理解し、期待以上の税務効率の高い構造を提案してくれました。", "author": "Nguyen V.H.", "role": "マネージングディレクター", "company": "Eコマースグループ、ベトナム", "country": "🇻🇳" },
+      { "quote": "プロフェッショナルで反応が早く、真にグローバルな視点を持っています。UAEフリーゾーン登録と銀行手続きを問題なく進められました。", "author": "James O.", "role": "共同創業者", "company": "Fintechスタートアップ、英国", "country": "🇬🇧" },
+      { "quote": "暗号資産規制に関するSOLEONの専門性により、数か月分の調査と規制リスクを削減できました。実務的で商業的な助言でした。", "author": "Alex K.", "role": "最高法務責任者", "company": "暗号資産取引所、エストニア", "country": "🇪🇪" }
+    ]
+  },
+  "caseStudies": {
+    "badge": "完了プロジェクト",
+    "title": "実施済みプロジェクト",
+    "subtitle": "クライアントのために実施した代表的なプロジェクト。機密情報保護のため匿名化しています",
+    "items": [
+      {
+        "tag": "法人構造",
+        "title": "米国SaaSスタートアップ → シンガポール持株構造",
+        "context": "グローバル顧客を持つ米国SaaS企業が、IP管理、海外収益、将来の資金調達に適した税務効率の高い持株構造を必要としていました。",
+        "solution": "SOLEONはシンガポール法人をIP保有会社として設立し、米国子会社を運営会社として整理。ACRA登録、ノミニー取締役、銀行口座開設を支援しました。",
+        "result": "IP収益の実効税率を改善し、再編後6か月以内にシリーズA資金調達を完了しました。",
+        "tags": ["シンガポール", "IP保有", "税務計画"]
+      },
+      {
+        "tag": "市場展開",
+        "title": "ベトナム製造業 → 香港展開",
+        "context": "ベトナムの製造グループが、国際取引の請求、銀行アクセス、海外販売代理店との契約のため香港法人を必要としていました。",
+        "solution": "SOLEONは香港法人を設立し、国際銀行との手続きを支援し、香港法および国際取引に適合する販売代理契約を作成しました。",
+        "result": "4か月以内に欧州の販売代理契約を3件獲得し、銀行手続きも2週間で完了しました。",
+        "tags": ["香港", "貿易金融", "契約"]
+      },
+      {
+        "tag": "Fintechライセンス",
+        "title": "Fintechスタートアップ → UAEフリーゾーン設立",
+        "context": "英国Fintech企業が、GCC顧客向けに中東拠点と適切な決済関連ライセンス体制を必要としていました。",
+        "solution": "SOLEONはDIFCとADGMの比較検討、DIFCフリーゾーン法人設立、現地専門家とのDFSA関連調整を支援しました。",
+        "result": "8週間でライセンス体制と運営準備を完了し、3か月以内に最初のGCC法人顧客を獲得しました。",
+        "tags": ["UAE", "DIFC", "Fintechライセンス"]
+      }
+    ]
+  },
+  "partners": {
+    "title": "信頼できるパートナーと統合",
+    "subtitle": "クロスボーダー事業をサポートするために、世界をリードする金融プラットフォームと提携しています",
+    "techBadge": "テクノロジーパートナー",
+    "networkBadge": "プロフェッショナルネットワーク",
+    "techTitle": "テクノロジー・銀行パートナー",
+    "networkTitle": "地域プロフェッショナルネットワーク",
+    "activeNetwork": "アクティブネットワーク",
+    "networkItems": [
+      { "name": "シンガポールパートナー", "flag": "🇸🇬" },
+      { "name": "香港パートナー", "flag": "🇭🇰" },
+      { "name": "ベトナムパートナー", "flag": "🇻🇳" },
+      { "name": "UAEパートナー", "flag": "🇦🇪" }
+    ]
+  },
+  "contact": {
+    "title": "専門家に相談する",
+    "subtitle": "会社設立、法務、税務、知的財産、国際事業展開について、SOLEONの専門チームにご相談ください。",
+    "contactBadge": "国際アドバイザリー",
+    "heroHighlights": [
+      "24営業時間以内に返信",
+      "初回相談無料",
+      "複数国に対応",
+      "顧客情報を厳格に保護"
+    ],
+    "formHeading": "相談依頼",
+    "formTitle": "ご相談内容を評価するため、必要情報をご入力ください",
+    "formName": "氏名",
+    "formEmail": "メール",
+    "formPhone": "電話番号",
+    "clientType": "顧客種別",
+    "clientTypes": ["個人", "法人"],
+    "countriesInterested": "関心のある国",
+    "countryOptions": ["ベトナム", "シンガポール", "米国", "香港", "UAE", "その他"],
+    "servicesInterested": "関心のあるサービス",
+    "serviceOptions": [
+      "会社設立",
+      "税務・コンプライアンス",
+      "会計",
+      "知的財産",
+      "移民・ビザ",
+      "事業ライセンス",
+      "法務アドバイザリー",
+      "その他"
+    ],
+    "budget": "想定予算",
+    "budgetPlaceholder": "予算がある場合は選択",
+    "budgetOptions": ["1,000米ドル未満", "1,000 - 5,000米ドル", "5,000 - 10,000米ドル", "10,000米ドル超"],
+    "consultationDate": "希望相談日",
+    "consultationTime": "希望時間",
+    "meetingPlatform": "オンライン会議ツール",
+    "meetingPlaceholder": "ツールを選択",
+    "bookingPlatforms": ["Calendly", "Google Calendar", "Microsoft Bookings"],
+    "formMessage": "相談内容",
+    "messagePlaceholder": "ご要望、対象国、希望スケジュール、相談したい論点をご記入ください。",
+    "formSubmit": "無料相談を予約する",
+    "formSending": "送信中...",
+    "formDisclaimer": "このフォームの送信は、弁護士-依頼人関係を自動的に作成するものではありません。情報は機密に取り扱い、相談依頼の評価にのみ使用します。",
+    "validationError": "顧客種別、関心のある国、関心のあるサービスを選択してください。",
+    "sendError": "送信に失敗しました。再試行するか、直接メールでお問い合わせください。",
+    "messageSent": "依頼を送信しました",
+    "successMessage": "お問い合わせありがとうございます。24営業時間以内にご連絡いたします。",
+    "backHome": "ホームに戻る",
+    "sendNewRequest": "新しい依頼を送信",
+    "contactInfoTitle": "連絡先情報",
+    "contactMethods": [
+      { "label": "Email", "value": "Hiep.Quach@soleonconllc.com", "href": "mailto:Hiep.Quach@soleonconllc.com", "description": "主要連絡先メール" },
+      { "label": "Hotline", "value": "+1 (307) 240-0206", "href": "tel:+13072400206", "description": "国際アドバイザリーサポート" },
+      { "label": "WhatsApp", "value": "0389396996", "href": "https://wa.me/84389396996", "description": "WhatsAppで迅速に連絡" },
+      { "label": "WeChat", "value": "wxid_s63uhd6gjcka12", "description": "WeChat ID · 電話番号: 0389396996" },
+      { "label": "営業時間", "value": "月曜日から金曜日", "description": "ベトナムおよび米国時間帯で対応" }
+    ],
+    "officeTitle": "オフィス",
+    "offices": [
+      { "country": "Vietnam Office", "city": "ハノイ", "address": "Số 41 Ngõ 113 Hoàng Cầu, Đống Đa, Hà Nội, Việt Nam", "type": "調整オフィス", "mapX": 76, "mapY": 55 },
+      { "country": "Wyoming Office", "city": "Sheridan", "address": "30 N Gould St Ste R, Sheridan, WY 82801, United States", "type": "登録オフィス", "mapX": 20, "mapY": 43 },
+      { "country": "Colorado Office", "city": "Boulder", "address": "1942 Broadway St., STE 314C, Boulder CO 80302, United States", "type": "代表オフィス", "mapX": 22, "mapY": 48 }
+    ],
+    "whyBadge": "SOLEONが選ばれる理由",
+    "whyTitle": "国際クライアント向けアドバイザリー体制",
+    "reasons": [
+      "24営業時間以内に返信",
+      "複数国に対応",
+      "法務・ビジネス専門家",
+      "顧客情報を厳格に保護",
+      "初回相談無料"
+    ],
+    "bookingTitle": "相談を予約する",
+    "bookingDescription": "フォームで希望日、時間、オンライン会議ツールを選択できます。SOLEONがメールまたは電話で日程を確認します。",
+    "mapTitle": "オフィスマップ",
+    "mapDescription": "地図上のマーカーを選択すると、ハノイ、ワイオミング、コロラドの住所を確認できます。",
+    "faqTitle": "よくある質問",
+    "faqs": [
+      { "question": "返信までどのくらいかかりますか？", "answer": "24営業時間以内に返信します。" },
+      { "question": "無料相談はありますか？", "answer": "はい。初回の preliminary consultation は無料です。" },
+      { "question": "SOLEONはどの国をサポートしていますか？", "answer": "ベトナム、米国、シンガポール、香港、その他の地域に対応しています。" },
+      { "question": "顧客情報は機密扱いですか？", "answer": "すべての情報はSOLEONのプライバシーポリシーに基づき保護されます。" }
+    ]
+  },
+  "footer": {
+    "tagline": "信頼できるクロスボーダー法律・企業アドバイザリーパートナー。",
+    "quickLinks": "クイックリンク",
+    "services": "サービス",
+    "legal": "法的情報",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "attorneyDisclaimer": "弁護士広告",
+    "noRelationship": "弁護士-依頼人関係なし",
+    "officesTitle": "オフィス",
+    "serviceLinks": [
+      "企業構造コンサルティング",
+      "税務・コンプライアンス",
+      "移民・ビザ",
+      "知的財産・テクノロジー",
+      "規制・ライセンス"
+    ],
+    "copyright": "© 2026 SOLEON LLC. All rights reserved.",
+    "disclaimer": "SOLEONは法的情報を提供しますが、法的アドバイスではありません。お問い合わせいただいても、弁護士-依頼人関係は成立しません。"
+  },
+  "contactCta": {
+    "badge": "今すぐ始める",
+    "title": "グローバルに展開する準備はできていますか？",
+    "subtitle": "法律の専門家との無料相談を予約し、グローバルなビジネス目標に向けた第一歩を踏み出しましょう。",
+    "bookButton": "無料相談を予約する",
+    "emailButton": "メールで直接お問い合わせ",
+    "trustItems": [
+      "無料の初回相談",
+      "24時間以内の返答",
+      "機密・安全",
+      "180カ国以上対応"
+    ]
+  },
+  "compliance": {
+    "privacy": {
+      "title": "プライバシーポリシー",
+      "lastUpdated": "最終更新日：2024年1月1日",
+      "sections": [
+        {
+          "heading": "1. 収集する情報",
+          "body": "SOLEON LLC（「SOLEON」、「当社」）は、お客様がお問い合わせフォームへの記入、相談のご依頼、メールでのご連絡などの際に直接提供する情報を収集します。これには、お名前、メールアドレス、電話番号、法的相談の内容が含まれる場合があります。"
+        },
+        {
+          "heading": "2. 情報の利用方法",
+          "body": "当社は収集した情報を、お客様のお問い合わせへの回答、法律アドバイザリーサービスの提供、適用法規の遵守、ウェブサイトおよびサービスの改善のために利用します。お客様の個人情報を第三者に販売することはありません。"
+        },
+        {
+          "heading": "3. 情報の共有",
+          "body": "当社は、ウェブサイトの運営およびビジネスの遂行を支援する信頼できるサービスプロバイダーと情報を共有する場合があります。その際、プロバイダーは情報の機密保持に同意するものとします。また、法律で要求される場合や当社の権利を保護するために情報を開示する場合があります。"
+        },
+        {
+          "heading": "4. データの保持",
+          "body": "当社は、収集目的を達成するために必要な期間、個人情報を保持します。これには、法的、会計的、または報告上の要件を満たすための目的も含まれます。"
+        },
+        {
+          "heading": "5. セキュリティ",
+          "body": "当社は、お客様の個人情報を不正アクセス、改ざん、開示、または破壊から保護するための適切な技術的および組織的措置を実施しています。"
+        },
+        {
+          "heading": "6. お客様の権利",
+          "body": "お客様の所在地によっては、個人データに関する権利（アクセス、訂正、削除の権利など）がある場合があります。これらの権利を行使するには、Hiep.Quach@soleonconllc.comまでご連絡ください。"
+        },
+        {
+          "heading": "7. お問い合わせ",
+          "body": "このプライバシーポリシーについてご質問がある場合は、こちらまでお問い合わせください：",
+          "email": "Hiep.Quach@soleonconllc.com"
+        }
+      ]
+    },
+    "terms": {
+      "title": "利用規約",
+      "lastUpdated": "最終更新日：2024年1月1日",
+      "sections": [
+        {
+          "heading": "1. 利用規約への同意",
+          "body": "SOLEONウェブサイト（soleonconllc.com）にアクセスして使用することにより、お客様は本利用規約に拘束されることに同意します。これらの条件に同意しない場合は、このウェブサイトをご利用にならないでください。"
+        },
+        {
+          "heading": "2. 法律情報のみ",
+          "body": "このウェブサイトのコンテンツは、一般的な情報提供のみを目的としており、法律的なアドバイスを構成するものではありません。提供された情報は、資格を有する弁護士との相談の代替として依拠すべきではありません。お客様の特定の状況について、専門的な法律アドバイスを求めることをお勧めします。"
+        },
+        {
+          "heading": "3. 弁護士-依頼人関係なし",
+          "body": "このウェブサイトへのアクセスまたはお問い合わせフォームを通じた情報送信は、お客様とSOLEONの間に弁護士-依頼人関係を生じさせません。弁護士-依頼人関係は、両当事者が署名した正式な書面による委任契約によってのみ成立します。"
+        },
+        {
+          "heading": "4. 知的財産",
+          "body": "テキスト、グラフィック、ロゴ、画像を含むこのウェブサイト上のすべてのコンテンツは、SOLEON LLCの財産であり、適用される知的財産法によって保護されています。当社の書面による許可なしに、複製、配布、または二次的著作物を作成することはできません。"
+        },
+        {
+          "heading": "5. 責任の制限",
+          "body": "SOLEONは、このウェブサイトまたはそのコンテンツの使用または使用不能から生じる直接的、間接的、偶発的、特別、または結果的損害について責任を負いません。"
+        },
+        {
+          "heading": "6. 準拠法",
+          "body": "本利用規約は、ベトナムの法律および米国の適用法に準拠して解釈されるものとします。"
+        }
+      ]
+    },
+    "attorney": {
+      "title": "弁護士広告免責事項",
+      "lastUpdated": "最終更新日：2024年1月1日",
+      "noticeBadge": "弁護士広告に関するお知らせ",
+      "noticeText": "このウェブサイトは、適用される専門職倫理規則に基づく弁護士広告を構成します。",
+      "sections": [
+        {
+          "heading": "弁護士広告",
+          "body": "このウェブサイトおよびその内容は、ベトナム弁護士連盟および適用される米国州弁護士会規則を含む適用される弁護士会の規則および規制に基づく弁護士広告を構成する場合があります。このウェブサイトに記載された過去の結果は、将来の案件で同様の結果を保証するものではありません。"
+        },
+        {
+          "heading": "結果の保証なし",
+          "body": "このウェブサイトに記載された案件の結果および証言は、将来の法的案件の結果の保証または予測ではありません。各案件はユニークであり、関係する事実および法的問題によって結果が異なる場合があります。"
+        },
+        {
+          "heading": "管轄上の制限",
+          "body": "SOLEONの弁護士はベトナムで法律を実践する資格を持っています。他の管轄でのサービスは、現地で資格を持つ弁護士およびアドバイザーと連携して提供されます。このウェブサイト上のいかなる内容も、いかなる管轄においても法律の無許可実践として解釈されるべきではありません。"
+        },
+        {
+          "heading": "連絡先情報",
+          "body": "主たる事務所：Số 41 Ngõ 113 Hoàng Cầu, Đống Đa, Hà Nội, Việt Nam",
+          "email": "Hiep.Quach@soleonconllc.com"
+        }
+      ]
+    },
+    "noRelationship": {
+      "title": "弁護士-依頼人関係なし免責事項",
+      "lastUpdated": "最終更新日：2024年1月1日",
+      "noticeBadge": "重要なお知らせ",
+      "noticeText": "お問い合わせフォームの送信、メールの送信、またはこのウェブサイトへのアクセスは、SOLEONまたはそのいずれかの弁護士との弁護士-依頼人関係を生じさせません。",
+      "sections": [
+        {
+          "heading": "弁護士-依頼人関係なし",
+          "body": "このウェブサイトの使用、お問い合わせフォームを通じた情報の送信、またはメールその他の手段によるSOLEONとの通信は、弁護士-依頼人関係を生じさせません。弁護士-依頼人関係は、以下の場合にのみ成立します：",
+          "list": [
+            "SOLEONがお客様を代理することに書面で明示的に同意した場合",
+            "正式な委任状またはリテイナー契約が両当事者によって署名された場合",
+            "適用されるすべての利益相反チェックが完了した場合"
+          ]
+        },
+        {
+          "heading": "提出情報の機密性",
+          "body": "弁護士-依頼人関係が成立する前にこのウェブサイトを通じて提出された情報は、必ずしも弁護士-依頼人特権によって保護されるわけではありません。正式な委任が確立される前に、お問い合わせフォームを通じて高度に機密性の高い情報を送信しないでください。"
+        },
+        {
+          "heading": "法律アドバイスなし",
+          "body": "このウェブサイトの情報は、一般的な情報提供のみを目的としており、法律アドバイスを構成するものではありません。お客様の状況の具体的な事実に精通した資格を有する弁護士から最初に法律的助言を求めることなく、このウェブサイトで見つけた情報に基づいて行動すべきではありません。"
+        },
+        {
+          "heading": "クライアント関係の確立",
+          "body": "SOLEONを法律アドバイザーとして委任したい場合は、正式な相談のスケジュールを設定するためにお問い合わせください。初回相談と利益相反チェックの後、当社がお客様を代理できる場合は、正式な委任状をご提供します。"
+        }
+      ]
+    }
+  },
+  "floatingContact": {
+    "quickContact": "クイック連絡",
+    "showAria": "連絡方法を表示",
+    "hideAria": "連絡方法を非表示",
+    "channelAria": "{channel}でSOLEONに連絡",
+    "wechatAria": "SOLEONのWeChat IDをコピー",
+    "callAria": "SOLEONのホットラインに電話",
+    "zalo": "Zalo",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "wechat": "WeChat",
+    "copied": "コピー済み",
+    "callHotline": "ホットラインに電話"
+  },
+  "completedWork": {
+    "badge": "実績",
+    "title": "お客様のために完了した業務",
+    "subtitle": "複数の管轄にわたって完了・納品済みの業務 — お客様に発行された事業登記証明書。",
+    "items": [
+      {
+        "flag": "🇸🇬",
+        "location": "シンガポール",
+        "label": "事業登記証明書"
+      },
+      {
+        "flag": "🇺🇸",
+        "location": "ワイオミング・テキサス・コロラド・ワシントン",
+        "label": "事業登記証明書"
+      },
+      {
+        "flag": "🇭🇰",
+        "location": "香港",
+        "label": "事業登記証明書"
+      },
+      {
+        "flag": "🇲🇹",
+        "location": "マルタ",
+        "label": "事業登記証明書"
+      },
+      {
+        "flag": "🏝️",
+        "location": "BVI・セーシェル・クック諸島・ケイマン",
+        "label": "事業登記証明書"
+      }
+    ]
+  }
+}

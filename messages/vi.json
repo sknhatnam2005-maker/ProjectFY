@@ -1,0 +1,772 @@
+{
+  "nav": {
+    "home": "Trang Chủ",
+    "about": "Về Chúng Tôi",
+    "services": "Lĩnh Vực Thực Hành",
+    "industries": "Ngành Công Nghiệp",
+    "team": "Đội Ngũ Của Chúng Tôi",
+    "contact": "Liên Hệ",
+    "bookConsultation": "Đặt Lịch Tư Vấn",
+    "subtitle": "PHÁP LÝ & TƯ VẤN"
+  },
+  "hero": {
+    "tagline": "Tư Vấn Pháp Lý & Doanh Nghiệp Xuyên Biên Giới",
+    "subtitle": "Chúng tôi hỗ trợ cá nhân và doanh nghiệp vượt qua những phức tạp pháp lý toàn cầu — từ thành lập công ty, đầu tư xuyên biên giới, tuân thủ thuế đến bảo vệ sở hữu trí tuệ.",
+    "badge": "Đoàn Luật Sư Việt Nam · Phục Vụ 180+ Quốc Gia",
+    "availableNow": "Đang Hoạt Động",
+    "freeConsultation": "Tư vấn ban đầu miễn phí",
+    "cta": "Đặt Lịch Tư Vấn Miễn Phí",
+    "ctaSecondary": "Khám Phá Giải Pháp Toàn Cầu",
+    "stats": {
+      "countries": "180+",
+      "countriesLabel": "Quốc Gia Đã Phục Vụ",
+      "experience": "12+",
+      "experienceLabel": "Năm Kinh Nghiệm",
+      "lawyers": "3",
+      "lawyersLabel": "Luật Sư Có Chứng Chỉ",
+      "experts": "5",
+      "expertsLabel": "Chuyên Viên Pháp Lý"
+    },
+    "keyJurisdictions": "Các Khu Vực Pháp Lý Chính",
+    "scroll": "Cuộn",
+    "globeWeLabel": "CHÚNG TA",
+    "jurisdictions": [
+      "Singapore",
+      "Hồng Kông",
+      "Hoa Kỳ",
+      "Dubai",
+      "Quần đảo Virgin Anh",
+      "Liên minh châu Âu",
+      "ASEAN",
+      "Quần đảo Cayman"
+    ],
+    "globePins": [
+      "Singapore",
+      "Hoa Kỳ",
+      "Quần đảo Virgin Anh",
+      "Hồng Kông",
+      "Philippines",
+      "Úc"
+    ],
+    "globeMoreLabel": "& 180+ quốc gia"
+  },
+  "services": {
+    "title": "Lĩnh Vực Hành Nghề",
+    "subtitle": "Dịch vụ tư vấn pháp lý và doanh nghiệp toàn diện trên nhiều lãnh thổ",
+    "practiceAreasBadge": "Lĩnh Vực Hành Nghề",
+    "viewAll": "Xem Tất Cả Lĩnh Vực",
+    "enquire": "Tìm Hiểu",
+    "whatWeOffer": "Chúng Tôi Cung Cấp",
+    "enquireAboutService": "Tìm Hiểu Dịch Vụ Này",
+    "items": [
+      {
+        "title": "Cấu Trúc Doanh Nghiệp",
+        "description": "Tư vấn cấu trúc doanh nghiệp phù hợp với nhu cầu của bạn. Thành lập công ty tại 180+ quốc gia bao gồm Singapore, Hong Kong, Mỹ, Dubai và các vùng lãnh thổ offshore.",
+        "icon": "building",
+        "details": [
+          "Thành lập công ty tại 180+ quốc gia",
+          "Cấu trúc công ty offshore (BVI, Cayman, Seychelles)",
+          "Cấu trúc công ty holding",
+          "Hỗ trợ mở tài khoản ngân hàng",
+          "Dịch vụ đại lý đăng ký",
+          "Dịch vụ giám đốc danh nghĩa"
+        ]
+      },
+      {
+        "title": "Thuế & Tuân Thủ",
+        "description": "Chiến lược tối ưu thuế và tư vấn tuân thủ doanh nghiệp. Đảm bảo doanh nghiệp của bạn luôn tuân thủ đồng thời tối đa hóa hiệu quả trên nhiều lãnh thổ.",
+        "icon": "shield",
+        "details": [
+          "Lập kế hoạch thuế đa thẩm quyền",
+          "Tư vấn giá chuyển nhượng",
+          "Giám sát tuân thủ doanh nghiệp",
+          "Nộp hồ sơ và báo cáo hàng năm",
+          "Tối ưu hóa cư trú thuế",
+          "Giấy chứng nhận đầu tư nước ngoài tại Việt Nam"
+        ]
+      },
+      {
+        "title": "Nhập Cư",
+        "description": "Tư vấn nhập cư và chiến lược cho doanh nhân và nhà đầu tư. Hướng dẫn cư trú thông qua đầu tư và thành lập công ty tại các quốc gia mục tiêu.",
+        "icon": "globe",
+        "details": [
+          "Tư vấn visa nhà đầu tư",
+          "Cư trú thông qua đầu tư",
+          "Di trú doanh nghiệp",
+          "Hỗ trợ giấy phép lao động",
+          "Lập kế hoạch cư trú dài hạn",
+          "Quốc tịch thông qua đầu tư"
+        ]
+      },
+      {
+        "title": "Hợp Đồng",
+        "description": "Soạn thảo, rà soát và đàm phán hợp đồng thương mại. Quản lý hợp đồng toàn diện cho giao dịch trong nước và xuyên biên giới.",
+        "icon": "file",
+        "details": [
+          "Soạn thảo hợp đồng thương mại",
+          "Rà soát và đàm phán hợp đồng",
+          "Thỏa thuận liên doanh",
+          "Thỏa thuận phân phối",
+          "Hợp đồng lao động",
+          "Tài liệu giao dịch xuyên biên giới"
+        ]
+      },
+      {
+        "title": "Sở Hữu Trí Tuệ & Công Nghệ",
+        "description": "Đăng ký và bảo vệ sở hữu trí tuệ toàn cầu. Nhãn hiệu, cấp phép phần mềm, chuyển nhượng IP và thỏa thuận chuyển giao công nghệ.",
+        "icon": "lightbulb",
+        "details": [
+          "Đăng ký nhãn hiệu (toàn cầu)",
+          "Bản quyền và cấp phép phần mềm",
+          "Thỏa thuận chuyển nhượng IP",
+          "Thỏa thuận chuyển giao công nghệ",
+          "Tư vấn bằng sáng chế",
+          "Quản lý danh mục IP"
+        ]
+      },
+      {
+        "title": "Quản Lý & Cấp Phép",
+        "description": "Tuân thủ quy định và cấp phép cho các ngành đặc thù. Cấp phép và tuân thủ Fintech, MSB, Gaming và Quyền riêng tư dữ liệu.",
+        "icon": "certificate",
+        "details": [
+          "Cấp phép Fintech (MSB, EMI)",
+          "Tư vấn giấy phép gaming",
+          "Tuân thủ quyền riêng tư dữ liệu (GDPR, PDPA)",
+          "Chương trình tuân thủ AML/KYC",
+          "Hướng dẫn sandbox quy định",
+          "Cấp phép sàn giao dịch crypto"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "title": "Về SOLEON",
+    "subtitle": "Từ văn phòng tư vấn nhỏ đến hệ sinh thái pháp lý xuyên biên giới toàn cầu",
+    "aboutBadge": "Về SOLEON",
+    "ourJourney": "Hành Trình Của Chúng Tôi",
+    "ourStoryBadge": "Câu Chuyện Của Chúng Tôi",
+    "readFullStory": "Đọc Toàn Bộ Câu Chuyện",
+    "founded": "Thành Lập",
+    "legalEntitiesLabel": "Pháp Nhân",
+    "hbaCertified": "Chứng Nhận HBA",
+    "credentialsTitle": "Chứng Chỉ Nghề Nghiệp",
+    "credentials": [
+      "3 luật sư được chứng nhận bởi Đoàn Luật Sư TP. Hà Nội",
+      "Tốt nghiệp Đại học Luật Hà Nội — trường luật hàng đầu Việt Nam",
+      "5 chuyên gia pháp lý và tuân thủ với kinh nghiệm quốc tế",
+      "12+ năm kinh nghiệm tư vấn và tố tụng toàn cầu"
+    ],
+    "previewCredentials": [
+      "3 luật sư · Đoàn Luật Sư Việt Nam",
+      "Cựu sinh viên Đại học Luật Hà Nội, 2014",
+      "180+ quốc gia — tầm vóc toàn cầu",
+      "12+ năm kinh nghiệm tư vấn"
+    ],
+    "jurisdictionsTitle": "Các Thẩm Quyền Chính",
+    "registrationsTitle": "Đăng Ký Doanh Nghiệp Đã Hoàn Thành",
+    "ctaTitle": "Sẵn Sàng Hợp Tác Với Chúng Tôi?",
+    "ctaText": "Liên hệ đội ngũ của chúng tôi để tư vấn miễn phí ban đầu.",
+    "ctaButton": "Liên Hệ Ngay",
+    "story": "Được thành lập bởi hai anh em ruột cùng tốt nghiệp Đại học Luật Hà Nội vào năm 2014, SOLEON bắt đầu với niềm tin rằng dịch vụ pháp lý không chỉ là giải quyết vấn đề — mà còn là nền tảng bảo vệ sự phát triển bền vững trong môi trường kinh doanh ngày càng phức tạp.",
+    "story2": "Trải qua hơn 12 năm hoạt động và phát triển, chúng tôi đã tư vấn cho đa dạng khách hàng từ cá nhân, startup, doanh nghiệp tăng trưởng nhanh cho đến các tổ chức hoạt động tại Việt Nam và quốc tế.",
+    "ecosystem": "Hệ sinh thái hiện tại của chúng tôi bao gồm:",
+    "entities": [
+      "03 pháp nhân thành viên hoạt động tại Việt Nam",
+      "02 pháp nhân tại Hoa Kỳ (Colorado và Wyoming)"
+    ],
+    "mission": "Chúng tôi tin rằng một đơn vị tư vấn chuyên nghiệp không chỉ cần hiểu luật, mà còn phải hiểu cách doanh nghiệp vận hành, cách rủi ro phát sinh và cách xây dựng cấu trúc phát triển bền vững trong môi trường toàn cầu hóa.",
+    "stats": [
+      {
+        "value": "180+",
+        "label": "Quốc Gia Đã Phục Vụ"
+      },
+      {
+        "value": "12+",
+        "label": "Năm Kinh Nghiệm"
+      },
+      {
+        "value": "500+",
+        "label": "Khách Hàng Đã Phục Vụ"
+      },
+      {
+        "value": "5",
+        "label": "Pháp Nhân"
+      }
+    ]
+  },
+  "team": {
+    "title": "Đội Ngũ Lãnh Đạo",
+    "subtitle": "Các chuyên gia pháp lý giàu kinh nghiệm tận tâm với thành công của bạn",
+    "teamBadge": "Đội Ngũ",
+    "ourPeopleBadge": "Đội Ngũ Của Chúng Tôi",
+    "meetFullTeam": "Gặp Gỡ Toàn Bộ Đội Ngũ",
+    "expertiseTitle": "Chuyên Môn Đội Ngũ",
+    "expertiseYears": "Năm Kinh Nghiệm Tổng Hợp",
+    "expertiseBar": "Thành Viên Đoàn Luật Sư Việt Nam",
+    "expertiseCountries": "Quốc Gia Đã Phục Vụ",
+    "scheduleConsultation": "Đặt Lịch Tư Vấn",
+    "members": [
+      {
+        "name": "Quách Đại Nghĩa",
+        "role": "Sáng Lập & Điều Hành",
+        "credentials": "Thành viên Đoàn Luật Sư TP. Hà Nội | Đại Học Luật Hà Nội, 2014",
+        "bio": "Hơn 12 năm kinh nghiệm trong lĩnh vực luật kinh doanh quốc tế, cấu trúc doanh nghiệp và tư vấn xuyên biên giới."
+      },
+      {
+        "name": "Quách Đại Hiệp",
+        "role": "Đồng Sáng Lập & Cộng Sự",
+        "credentials": "Thành viên Đoàn Luật Sư TP. Hà Nội | Đại Học Luật Hà Nội, 2014",
+        "bio": "Chuyên gia về đầu tư xuyên biên giới, tuân thủ thuế và tư vấn doanh nghiệp quốc tế."
+      },
+      {
+        "name": "Bùi Văn Thụ",
+        "role": "Luật Sư Cao Cấp",
+        "credentials": "Thành viên Đoàn Luật Sư TP. Hà Nội",
+        "bio": "Chuyên về tố tụng thương mại, luật hợp đồng và quản trị doanh nghiệp."
+      },
+      {
+        "name": "Nguyễn Thị Huyền",
+        "role": "Luật Sư Cao Cấp",
+        "credentials": "Thành viên Đoàn Luật Sư TP. Hà Nội",
+        "bio": "Chuyên gia về luật dân sự, thừa kế, bất động sản và sở hữu trí tuệ."
+      },
+      {
+        "name": "Lưu Quang Anh",
+        "role": "Luật Sư Cao Cấp",
+        "credentials": "Thành viên Đoàn Luật Sư TP. Hà Nội",
+        "bio": "Chuyên về luật hình sự, hành chính và tuân thủ quy định."
+      },
+      {
+        "name": "Nguyễn Phương Thảo",
+        "role": "Trợ Lý Luật Sư",
+        "credentials": "Thành viên Đoàn Luật Sư TP. Hà Nội",
+        "bio": "Chuyên về luật doanh nghiệp, hợp đồng thương mại và tư vấn đầu tư."
+      },
+      {
+        "name": "Trần Thu Hoài",
+        "role": "Trợ Lý Luật Sư",
+        "credentials": "Thành viên Đoàn Luật Sư TP. Hà Nội",
+        "bio": "Chuyên về luật lao động, hôn nhân gia đình và giải quyết tranh chấp."
+      }
+    ]
+  },
+  "industries": {
+    "title": "Ngành Nghề Phục Vụ",
+    "subtitle": "Năng lực tư vấn chuyên sâu cho các lĩnh vực công nghệ, tài chính, thương mại và sản xuất đang mở rộng xuyên biên giới.",
+    "industriesBadge": "Ngành Nghề",
+    "allIndustriesLabel": "Tất Cả Ngành Nghề",
+    "globalLabel": "Toàn Cầu",
+    "contactUsLink": "Liên hệ →",
+    "heroHighlights": [
+      "Dịch vụ theo từng mô hình kinh doanh",
+      "Hỗ trợ nhiều quốc gia",
+      "Tư vấn pháp lý, thuế và tuân thủ",
+      "Tập trung vào kết quả triển khai"
+    ],
+    "industriesListBadge": "Lĩnh vực chuyên môn",
+    "industriesListTitle": "Chọn ngành nghề phù hợp",
+    "industriesListDescription": "Mỗi lĩnh vực có rủi ro pháp lý, cấu trúc doanh nghiệp và yêu cầu tuân thủ riêng. Chọn một card để xem chi tiết năng lực hỗ trợ.",
+    "detailBadge": "Chi tiết ngành",
+    "overviewTitle": "Tổng quan ngành",
+    "servicesTitle": "Dịch vụ cung cấp",
+    "countriesTitle": "Quốc gia hỗ trợ",
+    "legalIssuesTitle": "Vấn đề pháp lý phổ biến",
+    "primaryCta": "Đặt Lịch Tư Vấn Miễn Phí",
+    "secondaryCta": "Liên Hệ Chuyên Gia",
+    "resultLabel": "Kết quả",
+    "items": [
+      {
+        "name": "Trí Tuệ Nhân Tạo",
+        "short": "AI",
+        "description": "Cấu trúc pháp lý, bảo vệ IP và tuân thủ dữ liệu cho sản phẩm AI.",
+        "overview": "SOLEON hỗ trợ startup AI và doanh nghiệp công nghệ xây dựng cấu trúc pháp lý phù hợp để phát triển sản phẩm, sở hữu tài sản trí tuệ, xử lý dữ liệu và gọi vốn quốc tế.",
+        "quickServices": ["IP Protection", "Data Privacy", "AI Compliance"],
+        "services": ["Thành lập công ty AI", "Bảo vệ IP thuật toán", "Thỏa thuận cấp phép dữ liệu", "Chính sách quyền riêng tư", "Cấu trúc holding cho tài sản trí tuệ"],
+        "countries": ["Việt Nam", "Hoa Kỳ", "Singapore", "Hong Kong", "UAE"],
+        "legalIssues": ["Quyền sở hữu mô hình và dữ liệu", "Chuyển giao dữ liệu xuyên biên giới", "Điều khoản sử dụng AI", "Rủi ro trách nhiệm sản phẩm"]
+      },
+      {
+        "name": "Công Nghệ Thông Tin",
+        "short": "IT",
+        "description": "Tư vấn cho SaaS, phần mềm, outsourcing và sản phẩm công nghệ.",
+        "overview": "Chúng tôi hỗ trợ doanh nghiệp IT thiết lập công ty, soạn hợp đồng công nghệ, bảo vệ phần mềm và đáp ứng yêu cầu bảo mật, dữ liệu, thuế và thanh toán quốc tế.",
+        "quickServices": ["SaaS Structure", "Software IP", "Data Privacy"],
+        "services": ["Cấu trúc công ty SaaS", "Hợp đồng phát triển phần mềm", "Bảo vệ IP phần mềm", "Tuân thủ quyền riêng tư dữ liệu", "Tư vấn M&A công nghệ"],
+        "countries": ["Việt Nam", "Hoa Kỳ", "Singapore", "Hong Kong", "UAE"],
+        "legalIssues": ["Sở hữu mã nguồn", "Hợp đồng dịch vụ xuyên biên giới", "Dữ liệu khách hàng", "Thuế với doanh thu phần mềm"]
+      },
+      {
+        "name": "Kinh Doanh Online",
+        "short": "MMO",
+        "description": "Cấu trúc công ty, thanh toán và thuế cho mô hình kinh doanh online.",
+        "overview": "SOLEON tư vấn cho nhà sáng tạo, agency, affiliate, dropshipping và mô hình dịch vụ số về pháp nhân, tài khoản thanh toán, nghĩa vụ thuế và hợp đồng khách hàng.",
+        "quickServices": ["Payment Setup", "Tax Planning", "Contracts"],
+        "services": ["Thành lập doanh nghiệp online", "Thiết lập cổng thanh toán", "Tài khoản đa tiền tệ", "Hợp đồng dịch vụ số", "Lập kế hoạch thuế xuyên biên giới"],
+        "countries": ["Việt Nam", "Hoa Kỳ", "Singapore", "Hong Kong", "UAE"],
+        "legalIssues": ["Nguồn doanh thu quốc tế", "Tài khoản thanh toán", "Chính sách hoàn tiền", "Nghĩa vụ thuế cá nhân và doanh nghiệp"]
+      },
+      {
+        "name": "Fintech",
+        "short": "Fintech",
+        "description": "Cấp phép, AML/KYC và tuân thủ thanh toán xuyên biên giới.",
+        "overview": "Đối với doanh nghiệp fintech, chúng tôi hỗ trợ đánh giá mô hình giấy phép, cấu trúc pháp nhân, chính sách AML/KYC, hợp đồng đối tác thanh toán và chiến lược mở rộng thị trường.",
+        "quickServices": ["MSB License", "Payment Compliance", "AML/KYC"],
+        "services": ["Cấp phép MSB/EMI", "Thiết lập tổ chức thanh toán", "Chính sách AML/KYC", "Tư vấn ngân hàng mở", "Cấu trúc thanh toán xuyên biên giới"],
+        "countries": ["Việt Nam", "Hoa Kỳ", "Singapore", "Hong Kong", "UAE"],
+        "legalIssues": ["Giấy phép thanh toán", "AML", "KYC", "Bảo vệ dữ liệu", "Quản trị rủi ro đối tác"]
+      },
+      {
+        "name": "Thương Mại Điện Tử",
+        "short": "E-commerce",
+        "description": "Pháp nhân, thuế, điều khoản bán hàng và tuân thủ thương mại quốc tế.",
+        "overview": "SOLEON hỗ trợ doanh nghiệp e-commerce xây dựng cấu trúc công ty, chính sách website, điều khoản marketplace, thuế VAT/GST và hợp đồng với nhà cung cấp hoặc logistics.",
+        "quickServices": ["VAT/GST", "Marketplace Terms", "Consumer Law"],
+        "services": ["Cấu trúc doanh nghiệp đa quốc gia", "Điều khoản sàn thương mại", "Tuân thủ bảo vệ người tiêu dùng", "Thuế VAT/GST xuyên biên giới", "Mẫu hợp đồng nhà bán hàng"],
+        "countries": ["Việt Nam", "Hoa Kỳ", "Singapore", "Hong Kong", "UAE"],
+        "legalIssues": ["Thuế gián thu", "Chính sách đổi trả", "Bảo vệ người tiêu dùng", "Vận chuyển và nhập khẩu"]
+      },
+      {
+        "name": "Tiền Mã Hóa",
+        "short": "Crypto",
+        "description": "Cấu trúc pháp lý, tuân thủ AML và chiến lược hoạt động cho crypto.",
+        "overview": "Chúng tôi hỗ trợ dự án crypto đánh giá khuôn khổ pháp lý, cấu trúc token, điều khoản nền tảng, AML, custody và lựa chọn quốc gia phù hợp với mô hình hoạt động.",
+        "quickServices": ["Token Structure", "Crypto AML", "Exchange Licensing"],
+        "services": ["Cấp phép sàn giao dịch crypto", "Cấu trúc pháp lý token", "Phân tích quy định DeFi", "Tuân thủ AML cho crypto", "Tư vấn lưu ký tài sản số"],
+        "countries": ["Việt Nam", "Hoa Kỳ", "Singapore", "Hong Kong", "UAE"],
+        "legalIssues": ["Phân loại token", "AML cho tài sản số", "Cấp phép sàn giao dịch", "Rủi ro chào bán token"]
+      },
+      {
+        "name": "Sản Xuất",
+        "short": "Manufacturing",
+        "description": "Tư vấn FDI, hợp đồng chuỗi cung ứng và tuân thủ sản xuất.",
+        "overview": "SOLEON hỗ trợ doanh nghiệp sản xuất trong cấu trúc đầu tư, thành lập pháp nhân, hợp đồng cung ứng, lao động, môi trường, xuất nhập khẩu và mở rộng thị trường.",
+        "quickServices": ["FDI Advisory", "Supply Contracts", "Trade Compliance"],
+        "services": ["Tư vấn cấu trúc FDI", "Hợp đồng chuỗi cung ứng", "Tuân thủ môi trường", "Tuân thủ lao động", "Quy định xuất nhập khẩu"],
+        "countries": ["Việt Nam", "Hoa Kỳ", "Singapore", "Hong Kong", "UAE"],
+        "legalIssues": ["Giấy phép đầu tư", "Hợp đồng nhà cung cấp", "Tuân thủ lao động", "Quy định xuất nhập khẩu"]
+      }
+    ],
+    "expertiseBadge": "Industry Expertise",
+    "expertiseTitle": "Năng lực đã được kiểm chứng",
+    "expertiseDescription": "Các chỉ số phản ánh kinh nghiệm xử lý hồ sơ pháp lý, tuân thủ và cấu trúc doanh nghiệp cho khách hàng quốc tế.",
+    "expertiseStats": [
+      { "value": "50+", "label": "Hồ sơ đã xử lý" },
+      { "value": "10+", "label": "Quốc gia hỗ trợ" },
+      { "value": "8+", "label": "Năm kinh nghiệm" },
+      { "value": "200+", "label": "Doanh nghiệp tư vấn" }
+    ],
+    "caseStudiesBadge": "Các Dự Án Tiêu Biểu",
+    "caseStudiesTitle": "Kinh nghiệm theo từng mô hình doanh nghiệp",
+    "caseStudiesDescription": "Một số tình huống đã được ẩn danh để bảo vệ thông tin khách hàng.",
+    "caseStudies": [
+      { "title": "AI Startup", "industry": "AI", "country": "Hoa Kỳ", "summary": "Hỗ trợ thành lập công ty tại Hoa Kỳ và chuẩn bị hồ sơ sở hữu trí tuệ cho sản phẩm AI.", "result": "Cấu trúc pháp nhân sẵn sàng cho gọi vốn và thương mại hóa sản phẩm." },
+      { "title": "Fintech Company", "industry": "Fintech", "country": "Singapore", "summary": "Tư vấn cấu trúc doanh nghiệp, chính sách AML/KYC và tuân thủ thanh toán xuyên biên giới.", "result": "Hoàn thiện bộ tài liệu tuân thủ để làm việc với đối tác ngân hàng và thanh toán." },
+      { "title": "E-commerce Business", "industry": "E-commerce", "country": "Hong Kong", "summary": "Thiết lập công ty, điều khoản bán hàng và giải pháp thuế quốc tế cho hoạt động bán hàng đa thị trường.", "result": "Vận hành mô hình thương mại điện tử với cấu trúc thuế và thanh toán rõ ràng." }
+    ],
+    "jurisdictionsBadge": "Jurisdictions We Support",
+    "jurisdictionsTitle": "Quốc gia hỗ trợ",
+    "jurisdictionsDescription": "Các thị trường trọng điểm cho thành lập doanh nghiệp, tuân thủ, thuế, IP và mở rộng hoạt động quốc tế.",
+    "jurisdictionServices": "Dịch vụ",
+    "jurisdictionTimeline": "Thời gian",
+    "jurisdictionScope": "Phạm vi",
+    "jurisdictions": [
+      { "name": "Việt Nam", "flag": "🇻🇳", "services": "FDI, pháp lý, thuế, lao động", "timeline": "2 - 6 tuần", "scope": "Thành lập, hợp đồng, tuân thủ vận hành" },
+      { "name": "Singapore", "flag": "🇸🇬", "services": "Holding, fintech, IP, GST", "timeline": "1 - 3 tuần", "scope": "Cấu trúc khu vực và mở rộng ASEAN" },
+      { "name": "Hoa Kỳ", "flag": "🇺🇸", "services": "LLC, C-Corp, EIN, IP", "timeline": "1 - 4 tuần", "scope": "Pháp nhân, thuế, tài khoản và gọi vốn" },
+      { "name": "Hong Kong", "flag": "🇭🇰", "services": "Trading, holding, banking", "timeline": "1 - 3 tuần", "scope": "Thương mại quốc tế và cấu trúc thanh toán" },
+      { "name": "UAE", "flag": "🇦🇪", "services": "Freezone, tax residency, licensing", "timeline": "2 - 5 tuần", "scope": "Mở rộng Trung Đông và cấu trúc quốc tế" }
+    ],
+    "faqBadge": "FAQ Theo Ngành",
+    "faqTitle": "Câu hỏi thường gặp",
+    "faqs": [
+      { "question": "Fintech cần giấy phép gì?", "answer": "Tùy mô hình hoạt động, fintech có thể cần giấy phép MSB, EMI, tổ chức thanh toán hoặc đăng ký liên quan đến AML/KYC và bảo vệ dữ liệu." },
+      { "question": "Thành lập công ty AI tại Mỹ như thế nào?", "answer": "Thông thường cần chọn loại pháp nhân, tiểu bang, cấu trúc sở hữu IP, EIN, tài khoản ngân hàng và bộ hợp đồng với founder hoặc nhà phát triển." },
+      { "question": "Công ty crypto có thể hoạt động tại Singapore không?", "answer": "Có thể, nhưng cần đánh giá kỹ mô hình token, custody, exchange, AML và yêu cầu cấp phép trước khi triển khai." },
+      { "question": "E-commerce xuyên biên giới cần lưu ý gì?", "answer": "Cần xem xét pháp nhân, cổng thanh toán, VAT/GST, điều khoản bán hàng, chính sách hoàn trả, bảo vệ người tiêu dùng và logistics." }
+    ],
+    "ctaBadge": "Bắt đầu đánh giá ngành nghề",
+    "ctaTitle": "Cần xác định cấu trúc phù hợp cho lĩnh vực của bạn?",
+    "ctaResponse": "Phản hồi trong 24 giờ",
+    "ctaFreeConsultation": "Tư vấn sơ bộ miễn phí"
+  },
+  "statsSection": {
+    "badge": "Con Số Thực Tế",
+    "title": "Thành Tích Đã Được Chứng Minh",
+    "subtitle": "Kết quả đo lường được xây dựng trên nhiều năm chuyên môn pháp lý xuyên biên giới",
+    "metrics": [
+      { "value": "200+", "label": "Doanh Nghiệp Được Hỗ Trợ", "icon": "building" },
+      { "value": "30+",  "label": "Thẩm Quyền Pháp Lý", "icon": "globe" },
+      { "value": "500+", "label": "Hồ Sơ Doanh Nghiệp", "icon": "file" },
+      { "value": "95%",  "label": "Tỷ Lệ Giữ Chân Khách Hàng", "icon": "star" },
+      { "value": "10+",  "label": "Năm Kinh Nghiệm", "icon": "clock" }
+    ]
+  },
+  "howWeWork": {
+    "badge": "Quy Trình",
+    "title": "Cách Chúng Tôi Làm Việc",
+    "subtitle": "Quy trình minh bạch, có cấu trúc từ liên hệ đầu tiên đến đối tác lâu dài",
+    "steps": [
+      { "number": "01", "title": "Tư Vấn Miễn Phí", "description": "Chúng tôi bắt đầu bằng một cuộc tư vấn khám phá miễn phí để hiểu mục tiêu kinh doanh, thẩm quyền pháp lý và yêu cầu quy định của bạn." },
+      { "number": "02", "title": "KYC & Đánh Giá", "description": "Đội ngũ của chúng tôi thực hiện thẩm định và đánh giá toàn diện về nhu cầu cơ cấu doanh nghiệp, nghĩa vụ tuân thủ và hồ sơ rủi ro." },
+      { "number": "03", "title": "Thành Lập Doanh Nghiệp", "description": "Chúng tôi thực hiện thành lập, đăng ký pháp nhân và tài liệu — tại Singapore, Hong Kong, UAE, Mỹ hoặc các vùng lãnh thổ offshore." },
+      { "number": "04", "title": "Tuân Thủ & Nộp Hồ Sơ", "description": "Tất cả nộp hồ sơ theo luật định, tuân thủ hàng năm, đăng ký thuế và các yêu cầu pháp lý thường xuyên đều được các chuyên gia của chúng tôi xử lý." },
+      { "number": "05", "title": "Hỗ Trợ Liên Tục", "description": "Chúng tôi trở thành đối tác lâu dài của bạn — sẵn sàng tư vấn tiếp theo, tái cơ cấu, cấp phép và mở rộng xuyên biên giới." }
+    ]
+  },
+  "globalCoverage": {
+    "badge": "Phạm Vi Toàn Cầu",
+    "title": "Các Thẩm Quyền Pháp Lý",
+    "subtitle": "Các địa điểm chiến lược trải rộng Châu Á Thái Bình Dương, Trung Đông, Châu Mỹ và các trung tâm offshore",
+    "jurisdictions": [
+      { "name": "Singapore", "flag": "🇸🇬", "highlight": "Trung Tâm Châu Á TBD", "services": ["Thành Lập Công Ty", "Employment Pass", "Thiết Lập Quỹ", "Đăng Ký GST"] },
+      { "name": "Hong Kong", "flag": "🇭🇰", "highlight": "Cửa Ngõ Trung Quốc", "services": ["BRC & HKID", "Cơ Cấu Holding", "Open Banking", "Lập Kế Hoạch Thuế"] },
+      { "name": "Việt Nam", "flag": "🇻🇳", "highlight": "Thị Trường Tăng Trưởng ASEAN", "services": ["Tư Vấn FDI", "IRC / ERC", "Tuân Thủ Lao Động", "M&A Nội Địa"] },
+      { "name": "UAE / Dubai", "flag": "🇦🇪", "highlight": "Cửa Ngõ Trung Đông", "services": ["Công Ty Freezone", "Thiết Lập DIFC", "Cư Trú Thuế", "Golden Visa"] },
+      { "name": "Vương Quốc Anh", "flag": "🇬🇧", "highlight": "Tiếp Cận Châu Âu", "services": ["Công Ty Ltd", "Đăng Ký VAT", "Cấp Phép EMI", "Văn Phòng Chi Nhánh"] },
+      { "name": "Hoa Kỳ", "flag": "🇺🇸", "highlight": "Thị Trường Lớn Nhất TG", "services": ["LLC / C-Corp", "EIN & Banking", "Delaware Setup", "Tư Vấn EB-5"] },
+      { "name": "BVI", "flag": "🏝️", "highlight": "Holding Offshore", "services": ["Thành Lập IBC", "Cơ Cấu Riêng Tư", "Bảo Vệ Tài Sản", "Dịch Vụ Nominee"] },
+      { "name": "Cayman Islands", "flag": "🏝️", "highlight": "Trung Tâm Quỹ & Tài Chính", "services": ["SPC Fund", "Cấp Phép Crypto", "Thiết Lập Hedge Fund", "Tuân Thủ KYC"] }
+    ]
+  },
+  "testimonials": {
+    "badge": "Phản Hồi Khách Hàng",
+    "title": "Khách Hàng Nói Gì",
+    "subtitle": "Được tin tưởng bởi các nhà sáng lập, giám đốc điều hành và doanh nhân tại 30+ thẩm quyền",
+    "items": [
+      { "quote": "SOLEON giúp chúng tôi thành lập cơ cấu holding tại Singapore trong chưa đầy 3 tuần. Sự hiểu biết về luật doanh nghiệp xuyên biên giới của họ thật xuất sắc — từ thành lập đến mở tài khoản ngân hàng đều được xử lý trơn tru.", "author": "Michael T.", "role": "CEO & Nhà Sáng Lập", "company": "Công Ty SaaS, Hoa Kỳ", "country": "🇺🇸" },
+      { "quote": "Chúng tôi cần mở rộng từ Việt Nam sang Hong Kong nhanh chóng. Đội ngũ SOLEON hiểu mô hình kinh doanh của chúng tôi ngay lập tức và đưa ra cơ cấu hiệu quả về thuế vượt quá kỳ vọng.", "author": "Nguyễn V.H.", "role": "Giám Đốc Điều Hành", "company": "Tập Đoàn E-commerce, Việt Nam", "country": "🇻🇳" },
+      { "quote": "Chuyên nghiệp, phản hồi nhanh và thực sự tư duy toàn cầu. Họ hướng dẫn chúng tôi đăng ký freezone UAE và banking mà không có bất kỳ vấn đề nào. Tôi rất tin tưởng giới thiệu.", "author": "James O.", "role": "Đồng Sáng Lập", "company": "Fintech Startup, Vương Quốc Anh", "country": "🇬🇧" },
+      { "quote": "Chuyên môn tuân thủ quy định crypto của SOLEON đã giúp chúng tôi tiết kiệm hàng tháng nghiên cứu và rủi ro pháp lý. Tư vấn cấp phép cho sàn giao dịch của chúng tôi rất toàn diện và thực tế về mặt thương mại.", "author": "Alex K.", "role": "Giám Đốc Pháp Lý", "company": "Sàn Giao Dịch Crypto, Estonia", "country": "🇪🇪" }
+    ]
+  },
+  "caseStudies": {
+    "badge": "Dự Án Thực Tế",
+    "title": "DỰ ÁN ĐÃ THỰC HIỆN",
+    "subtitle": "Những dự án tiêu biểu đã triển khai cho khách hàng — được ẩn danh để bảo vệ thông tin bảo mật",
+    "items": [
+      {
+        "tag": "Cơ Cấu Doanh Nghiệp",
+        "title": "Startup SaaS Mỹ → Cơ Cấu Holding Singapore",
+        "context": "Một công ty SaaS tại Mỹ với khách hàng toàn cầu cần cơ cấu holding hiệu quả về thuế để quản lý IP, nhận doanh thu nước ngoài và tạo điều kiện cho các vòng gọi vốn.",
+        "solution": "SOLEON thành lập công ty tư nhân Singapore làm pháp nhân nắm giữ IP, với công ty con tại Mỹ cho hoạt động vận hành. Chúng tôi xử lý đăng ký ACRA, giám đốc nominee và mở tài khoản DBS.",
+        "result": "Giảm thuế suất hiệu dụng trên thu nhập IP từ 21% xuống 17%. Công ty đóng Series A trong vòng 6 tháng sau tái cơ cấu.",
+        "tags": ["Singapore", "IP Holding", "Lập Kế Hoạch Thuế"]
+      },
+      {
+        "tag": "Mở Rộng Thị Trường",
+        "title": "Nhà Sản Xuất VN → Mở Rộng Hong Kong",
+        "context": "Một tập đoàn sản xuất Việt Nam cần pháp nhân Hong Kong để thực hiện lập hóa đơn thương mại quốc tế, cải thiện tiếp cận banking và thu hút đối tác phân phối nước ngoài.",
+        "solution": "SOLEON thành lập công ty trách nhiệm hữu hạn Hong Kong, thiết lập tài khoản với các ngân hàng quốc tế lớn và soạn thảo hợp đồng nhà phân phối tuân thủ luật HK và quốc tế.",
+        "result": "Khách hàng ký được 3 hợp đồng phân phối châu Âu trong 4 tháng. Thiết lập banking hoàn thành trong 2 tuần.",
+        "tags": ["Hong Kong", "Tài Chính Thương Mại", "Hợp Đồng"]
+      },
+      {
+        "tag": "Cấp Phép Fintech",
+        "title": "Fintech Startup → Thiết Lập UAE Freezone",
+        "context": "Một startup fintech tại Anh cần sự hiện diện tại Trung Đông với giấy phép thanh toán phù hợp để phục vụ khách hàng GCC.",
+        "solution": "SOLEON tư vấn về cơ cấu DIFC vs ADGM, hoàn thành thành lập freezone DIFC và phối hợp với luật sư địa phương về cấp phép dịch vụ tài chính DFSA.",
+        "result": "Được cấp phép và hoạt động trong 8 tuần. Khách hàng ký được khách hàng doanh nghiệp GCC đầu tiên trong 3 tháng.",
+        "tags": ["UAE", "DIFC", "Cấp Phép Fintech"]
+      }
+    ]
+  },
+  "partners": {
+    "title": "Đối Tác & Hệ Sinh Thái",
+    "subtitle": "Tích hợp với các nền tảng toàn cầu hàng đầu để hỗ trợ hoạt động xuyên biên giới của bạn",
+    "techBadge": "Đối Tác Công Nghệ",
+    "networkBadge": "Mạng Lưới Chuyên Nghiệp",
+    "techTitle": "Đối Tác Công Nghệ & Banking",
+    "networkTitle": "Mạng Lưới Chuyên Nghiệp Khu Vực",
+    "activeNetwork": "Mạng Lưới Hoạt Động",
+    "networkItems": [
+      { "name": "Đối Tác Singapore", "flag": "🇸🇬" },
+      { "name": "Đối Tác Hong Kong", "flag": "🇭🇰" },
+      { "name": "Đối Tác Việt Nam",  "flag": "🇻🇳" },
+      { "name": "Đối Tác UAE",       "flag": "🇦🇪" }
+    ]
+  },
+  "contact": {
+    "title": "Liên Hệ Chuyên Gia",
+    "subtitle": "Liên hệ với đội ngũ chuyên gia của SOLEON để được tư vấn về thành lập doanh nghiệp, pháp lý, thuế, sở hữu trí tuệ và mở rộng hoạt động kinh doanh quốc tế.",
+    "contactBadge": "Tư Vấn Quốc Tế",
+    "heroHighlights": [
+      "Phản hồi trong vòng 24 giờ làm việc",
+      "Tư vấn sơ bộ miễn phí",
+      "Hỗ trợ đa quốc gia",
+      "Bảo mật thông tin khách hàng"
+    ],
+    "formHeading": "Yêu Cầu Tư Vấn",
+    "formTitle": "Cung cấp thông tin để chúng tôi đánh giá nhu cầu của Quý khách",
+    "formName": "Họ và tên",
+    "formEmail": "Email",
+    "formPhone": "Số điện thoại",
+    "clientType": "Loại khách hàng",
+    "clientTypes": ["Cá nhân", "Doanh nghiệp"],
+    "countriesInterested": "Quốc gia quan tâm",
+    "countryOptions": ["Việt Nam", "Singapore", "Hoa Kỳ", "Hong Kong", "UAE", "Khác"],
+    "servicesInterested": "Dịch vụ quan tâm",
+    "serviceOptions": [
+      "Thành lập công ty",
+      "Thuế & Tuân thủ",
+      "Kế toán",
+      "Sở hữu trí tuệ",
+      "Nhập cư",
+      "Giấy phép kinh doanh",
+      "Tư vấn pháp lý",
+      "Khác"
+    ],
+    "budget": "Ngân sách dự kiến",
+    "budgetPlaceholder": "Chọn ngân sách nếu đã có",
+    "budgetOptions": ["Dưới 1.000 USD", "1.000 - 5.000 USD", "5.000 - 10.000 USD", "Trên 10.000 USD"],
+    "consultationDate": "Ngày tư vấn mong muốn",
+    "consultationTime": "Giờ tư vấn mong muốn",
+    "meetingPlatform": "Hình thức họp trực tuyến",
+    "meetingPlaceholder": "Chọn nền tảng",
+    "bookingPlatforms": ["Calendly", "Google Calendar", "Microsoft Bookings"],
+    "formMessage": "Nội dung yêu cầu",
+    "messagePlaceholder": "Mô tả nhu cầu, quốc gia dự kiến, thời hạn mong muốn và các vấn đề cần tư vấn.",
+    "formSubmit": "Đặt Lịch Tư Vấn Miễn Phí",
+    "formSending": "Đang gửi yêu cầu...",
+    "formDisclaimer": "Gửi form này không tự động tạo mối quan hệ luật sư-thân chủ. Thông tin của Quý khách được xử lý bảo mật và chỉ dùng để đánh giá yêu cầu tư vấn.",
+    "validationError": "Vui lòng chọn loại khách hàng, quốc gia quan tâm và dịch vụ quan tâm.",
+    "sendError": "Gửi thất bại. Vui lòng thử lại hoặc liên hệ qua email trực tiếp.",
+    "messageSent": "Yêu cầu đã được gửi",
+    "successMessage": "Cảm ơn Quý khách đã liên hệ. Chúng tôi sẽ phản hồi trong vòng 24 giờ làm việc.",
+    "backHome": "Quay lại trang chủ",
+    "sendNewRequest": "Gửi yêu cầu mới",
+    "contactInfoTitle": "Thông tin liên hệ",
+    "contactMethods": [
+      { "label": "Email", "value": "Hiep.Quach@soleonconllc.com", "href": "mailto:Hiep.Quach@soleonconllc.com", "description": "Email liên hệ chính" },
+      { "label": "Hotline", "value": "+1 (307) 240-0206", "href": "tel:+13072400206", "description": "Hỗ trợ tư vấn quốc tế" },
+      { "label": "WhatsApp", "value": "0389396996", "href": "https://wa.me/84389396996", "description": "Trao đổi nhanh qua WhatsApp" },
+      { "label": "WeChat", "value": "wxid_s63uhd6gjcka12", "description": "WeChat ID · SĐT: 0389396996" },
+      { "label": "Giờ làm việc", "value": "Thứ Hai đến Thứ Sáu", "description": "Hỗ trợ theo múi giờ Việt Nam và Hoa Kỳ" }
+    ],
+    "officeTitle": "Văn phòng",
+    "offices": [
+      { "country": "Vietnam Office", "city": "Hà Nội", "address": "Số 41 Ngõ 113 Hoàng Cầu, Đống Đa, Hà Nội, Việt Nam", "type": "Văn phòng điều phối", "mapX": 76, "mapY": 55 },
+      { "country": "Wyoming Office", "city": "Sheridan", "address": "30 N Gould St Ste R, Sheridan, WY 82801, United States", "type": "Văn phòng đăng ký", "mapX": 20, "mapY": 43 },
+      { "country": "Colorado Office", "city": "Boulder", "address": "1942 Broadway St., STE 314C, Boulder CO 80302, United States", "type": "Văn phòng đại diện", "mapX": 22, "mapY": 48 }
+    ],
+    "whyBadge": "Vì sao chọn SOLEON",
+    "whyTitle": "Năng lực tư vấn cho khách hàng quốc tế",
+    "reasons": [
+      "Phản hồi trong 24 giờ làm việc",
+      "Hỗ trợ đa quốc gia",
+      "Chuyên gia pháp lý và doanh nghiệp",
+      "Bảo mật thông tin khách hàng",
+      "Tư vấn sơ bộ miễn phí"
+    ],
+    "bookingTitle": "Đặt Lịch Tư Vấn",
+    "bookingDescription": "Quý khách có thể chọn ngày, giờ và nền tảng họp trực tuyến ngay trong form. Đội ngũ SOLEON sẽ xác nhận lịch phù hợp qua email hoặc điện thoại.",
+    "mapTitle": "Bản đồ văn phòng",
+    "mapDescription": "Chọn marker trên bản đồ để xem địa chỉ văn phòng tại Hà Nội, Wyoming và Colorado.",
+    "faqTitle": "Câu hỏi thường gặp",
+    "faqs": [
+      { "question": "Bao lâu sẽ nhận được phản hồi?", "answer": "Trong vòng 24 giờ làm việc." },
+      { "question": "Có tư vấn miễn phí không?", "answer": "Có. Chúng tôi cung cấp buổi tư vấn sơ bộ miễn phí." },
+      { "question": "SOLEON hỗ trợ những quốc gia nào?", "answer": "Việt Nam, Hoa Kỳ, Singapore, Hong Kong và các khu vực khác." },
+      { "question": "Thông tin khách hàng có được bảo mật không?", "answer": "Mọi thông tin được bảo mật theo chính sách bảo mật của SOLEON." }
+    ]
+  },
+  "footer": {
+    "tagline": "Đối tác tư vấn pháp lý và doanh nghiệp xuyên biên giới đáng tin cậy của bạn.",
+    "quickLinks": "Liên Kết Nhanh",
+    "services": "Dịch Vụ",
+    "legal": "Pháp Lý",
+    "privacy": "Chính Sách Bảo Mật",
+    "terms": "Điều Khoản Sử Dụng",
+    "attorneyDisclaimer": "Quảng Cáo Luật Sư",
+    "noRelationship": "Không Có Quan Hệ Luật Sư-Thân Chủ",
+    "officesTitle": "Văn Phòng",
+    "serviceLinks": [
+      "Cấu Trúc Doanh Nghiệp",
+      "Thuế & Tuân Thủ",
+      "Nhập Cư",
+      "Sở Hữu Trí Tuệ & Công Nghệ",
+      "Quản Lý & Cấp Phép"
+    ],
+    "copyright": "© 2026 SOLEON LLC. Mọi quyền được bảo lưu.",
+    "disclaimer": "SOLEON cung cấp thông tin pháp lý, không phải tư vấn pháp lý. Liên hệ với chúng tôi không thiết lập mối quan hệ luật sư-thân chủ."
+  },
+  "contactCta": {
+    "badge": "Bắt Đầu Ngay Hôm Nay",
+    "title": "Sẵn Sàng Mở Rộng Toàn Cầu?",
+    "subtitle": "Đặt lịch tư vấn miễn phí với các chuyên gia pháp lý của chúng tôi và thực hiện bước đầu tiên hướng tới mục tiêu kinh doanh toàn cầu của bạn.",
+    "bookButton": "Đặt Lịch Tư Vấn Miễn Phí",
+    "emailButton": "Gửi Email Trực Tiếp",
+    "trustItems": [
+      "Tư vấn ban đầu miễn phí",
+      "Phản hồi trong 24 giờ",
+      "Bảo mật & An toàn",
+      "Phục vụ 180+ quốc gia"
+    ]
+  },
+  "compliance": {
+    "privacy": {
+      "title": "Chính Sách Bảo Mật",
+      "lastUpdated": "Cập nhật lần cuối: 01/01/2024",
+      "sections": [
+        {
+          "heading": "1. Thông Tin Chúng Tôi Thu Thập",
+          "body": "SOLEON LLC (\"SOLEON,\" \"chúng tôi\") thu thập thông tin bạn cung cấp trực tiếp, chẳng hạn khi bạn điền biểu mẫu liên hệ, yêu cầu tư vấn hoặc liên lạc qua email. Thông tin này có thể bao gồm tên, địa chỉ email, số điện thoại và nội dung yêu cầu pháp lý của bạn."
+        },
+        {
+          "heading": "2. Cách Chúng Tôi Sử Dụng Thông Tin",
+          "body": "Chúng tôi sử dụng thông tin thu thập được để phản hồi yêu cầu, cung cấp dịch vụ tư vấn pháp lý, tuân thủ pháp luật hiện hành và cải thiện trang web cũng như dịch vụ. Chúng tôi không bán thông tin cá nhân của bạn cho bên thứ ba."
+        },
+        {
+          "heading": "3. Chia Sẻ Thông Tin",
+          "body": "Chúng tôi có thể chia sẻ thông tin của bạn với các nhà cung cấp dịch vụ đáng tin cậy hỗ trợ vận hành trang web và kinh doanh của chúng tôi, với điều kiện họ cam kết bảo mật thông tin. Chúng tôi cũng có thể tiết lộ thông tin khi luật pháp yêu cầu hoặc để bảo vệ quyền lợi của mình."
+        },
+        {
+          "heading": "4. Lưu Trữ Dữ Liệu",
+          "body": "Chúng tôi lưu trữ thông tin cá nhân trong thời gian cần thiết để thực hiện các mục đích thu thập, bao gồm việc đáp ứng các yêu cầu pháp lý, kế toán hoặc báo cáo."
+        },
+        {
+          "heading": "5. Bảo Mật",
+          "body": "Chúng tôi áp dụng các biện pháp kỹ thuật và tổ chức phù hợp để bảo vệ thông tin cá nhân của bạn khỏi truy cập, thay đổi, tiết lộ hoặc phá hủy trái phép."
+        },
+        {
+          "heading": "6. Quyền Của Bạn",
+          "body": "Tùy thuộc vào vị trí của bạn, bạn có thể có quyền liên quan đến dữ liệu cá nhân, bao gồm quyền truy cập, chỉnh sửa hoặc xóa thông tin cá nhân. Để thực hiện các quyền này, vui lòng liên hệ với chúng tôi tại Hiep.Quach@soleonconllc.com."
+        },
+        {
+          "heading": "7. Liên Hệ",
+          "body": "Nếu bạn có câu hỏi về Chính sách Bảo mật này, vui lòng liên hệ:",
+          "email": "Hiep.Quach@soleonconllc.com"
+        }
+      ]
+    },
+    "terms": {
+      "title": "Điều Khoản Sử Dụng",
+      "lastUpdated": "Cập nhật lần cuối: 01/01/2024",
+      "sections": [
+        {
+          "heading": "1. Chấp Nhận Điều Khoản",
+          "body": "Bằng cách truy cập và sử dụng trang web SOLEON (soleonconllc.com), bạn chấp nhận và đồng ý bị ràng buộc bởi các Điều Khoản Sử Dụng này. Nếu bạn không đồng ý, vui lòng không sử dụng trang web này."
+        },
+        {
+          "heading": "2. Chỉ Cung Cấp Thông Tin Pháp Lý",
+          "body": "Nội dung trên trang web này chỉ nhằm mục đích cung cấp thông tin chung và không cấu thành tư vấn pháp lý. Thông tin cung cấp không thể thay thế việc tham khảo ý kiến luật sư có chuyên môn. Chúng tôi khuyến khích bạn tìm kiếm tư vấn pháp lý chuyên nghiệp cho tình huống cụ thể của mình."
+        },
+        {
+          "heading": "3. Không Có Quan Hệ Luật Sư-Thân Chủ",
+          "body": "Truy cập trang web này hoặc gửi thông tin qua biểu mẫu liên hệ không tạo ra quan hệ luật sư-thân chủ giữa bạn và SOLEON. Quan hệ luật sư-thân chủ chỉ được thiết lập thông qua hợp đồng dịch vụ bằng văn bản chính thức được cả hai bên ký kết."
+        },
+        {
+          "heading": "4. Sở Hữu Trí Tuệ",
+          "body": "Toàn bộ nội dung trên trang web này, bao gồm văn bản, đồ họa, logo và hình ảnh, là tài sản của SOLEON LLC và được bảo vệ bởi luật sở hữu trí tuệ hiện hành. Bạn không được sao chép, phân phối hoặc tạo ra các tác phẩm phái sinh mà không có sự cho phép bằng văn bản của chúng tôi."
+        },
+        {
+          "heading": "5. Giới Hạn Trách Nhiệm",
+          "body": "SOLEON sẽ không chịu trách nhiệm về bất kỳ thiệt hại trực tiếp, gián tiếp, ngẫu nhiên, đặc biệt hoặc hệ quả nào phát sinh từ việc bạn sử dụng hoặc không thể sử dụng trang web hoặc nội dung của trang web này."
+        },
+        {
+          "heading": "6. Luật Áp Dụng",
+          "body": "Các Điều Khoản Sử Dụng này sẽ được điều chỉnh và giải thích theo pháp luật Việt Nam và pháp luật Hoa Kỳ hiện hành."
+        }
+      ]
+    },
+    "attorney": {
+      "title": "Tuyên Bố Từ Chối Quảng Cáo Luật Sư",
+      "lastUpdated": "Cập nhật lần cuối: 01/01/2024",
+      "noticeBadge": "THÔNG BÁO QUẢNG CÁO LUẬT SƯ",
+      "noticeText": "Trang web này cấu thành quảng cáo luật sư theo các quy tắc hành vi nghề nghiệp hiện hành.",
+      "sections": [
+        {
+          "heading": "Quảng Cáo Luật Sư",
+          "body": "Trang web và nội dung của nó có thể cấu thành quảng cáo luật sư theo quy định của các hiệp hội luật sư hiện hành, bao gồm Đoàn Luật Sư Việt Nam và các quy tắc luật sư tiểu bang Hoa Kỳ. Kết quả trước đây được mô tả trên trang web này không đảm bảo kết quả tương tự trong các vụ việc tương lai."
+        },
+        {
+          "heading": "Không Đảm Bảo Kết Quả",
+          "body": "Kết quả vụ án và lời chứng thực được mô tả trên trang web này không phải là sự đảm bảo hay dự đoán về kết quả của bất kỳ vụ việc pháp lý nào trong tương lai. Mỗi vụ việc là duy nhất và kết quả có thể khác nhau tùy thuộc vào tình tiết và các vấn đề pháp lý liên quan."
+        },
+        {
+          "heading": "Giới Hạn Thẩm Quyền",
+          "body": "Các luật sư của SOLEON được cấp phép hành nghề tại Việt Nam. Dịch vụ tại các thẩm quyền khác được cung cấp phối hợp với các luật sư và cố vấn được cấp phép tại địa phương. Không có điều gì trên trang web này được hiểu là việc hành nghề luật trái phép tại bất kỳ thẩm quyền nào."
+        },
+        {
+          "heading": "Thông Tin Liên Hệ",
+          "body": "Văn phòng chính: Số 41 Ngõ 113 Hoàng Cầu, Đống Đa, Hà Nội, Việt Nam",
+          "email": "Hiep.Quach@soleonconllc.com"
+        }
+      ]
+    },
+    "noRelationship": {
+      "title": "Tuyên Bố Không Có Quan Hệ Luật Sư-Thân Chủ",
+      "lastUpdated": "Cập nhật lần cuối: 01/01/2024",
+      "noticeBadge": "THÔNG BÁO QUAN TRỌNG",
+      "noticeText": "Gửi biểu mẫu liên hệ, gửi email hoặc truy cập trang web này KHÔNG tạo ra quan hệ luật sư-thân chủ với SOLEON hoặc bất kỳ luật sư nào của SOLEON.",
+      "sections": [
+        {
+          "heading": "Không Có Quan Hệ Luật Sư-Thân Chủ",
+          "body": "Việc sử dụng trang web này, gửi thông tin qua biểu mẫu liên hệ hoặc liên lạc với SOLEON qua email hay các phương tiện khác không tạo ra quan hệ luật sư-thân chủ. Quan hệ luật sư-thân chủ chỉ được hình thành khi:",
+          "list": [
+            "SOLEON đã đồng ý rõ ràng bằng văn bản để đại diện cho bạn",
+            "Thư cam kết chính thức hoặc hợp đồng dịch vụ đã được cả hai bên ký kết",
+            "Tất cả các kiểm tra xung đột lợi ích hiện hành đã được hoàn thành"
+          ]
+        },
+        {
+          "heading": "Bảo Mật Thông Tin Đã Gửi",
+          "body": "Thông tin gửi qua trang web này trước khi thiết lập quan hệ luật sư-thân chủ không nhất thiết được bảo vệ bởi đặc quyền luật sư-thân chủ. Vui lòng không gửi thông tin nhạy cảm cao hoặc bí mật qua biểu mẫu liên hệ trước khi hợp đồng dịch vụ được thiết lập chính thức."
+        },
+        {
+          "heading": "Không Có Tư Vấn Pháp Lý",
+          "body": "Thông tin trên trang web này chỉ nhằm mục đích cung cấp thông tin chung và không cấu thành tư vấn pháp lý. Bạn không nên hành động dựa trên thông tin tìm thấy trên trang web này mà không trước tiên tìm kiếm tư vấn pháp lý từ luật sư có chuyên môn, người quen thuộc với các tình tiết cụ thể của tình huống của bạn."
+        },
+        {
+          "heading": "Thiết Lập Quan Hệ Khách Hàng",
+          "body": "Nếu bạn muốn thuê SOLEON làm cố vấn pháp lý, vui lòng liên hệ với chúng tôi để lên lịch tư vấn chính thức. Sau cuộc tư vấn ban đầu và kiểm tra xung đột lợi ích, chúng tôi sẽ cung cấp cho bạn thư cam kết chính thức nếu chúng tôi có thể đại diện cho bạn."
+        }
+      ]
+    }
+  },
+  "floatingContact": {
+    "quickContact": "Liên hệ nhanh",
+    "showAria": "Hiện các kênh liên hệ",
+    "hideAria": "Ẩn các kênh liên hệ",
+    "channelAria": "Liên hệ SOLEON qua {channel}",
+    "wechatAria": "Sao chép WeChat ID của SOLEON",
+    "callAria": "Gọi hotline SOLEON",
+    "zalo": "Zalo",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "wechat": "WeChat",
+    "copied": "Đã sao chép",
+    "callHotline": "Gọi hotline"
+  },
+  "completedWork": {
+    "badge": "Kết Quả Thực Tế",
+    "title": "Kết Quả Công Việc Hoàn Thành Cho Khách Hàng",
+    "subtitle": "Các kết quả đã hoàn thành và bàn giao — giấy chứng nhận đăng ký kinh doanh tại nhiều thẩm quyền trên thế giới.",
+    "items": [
+      {
+        "flag": "🇸🇬",
+        "location": "Singapore",
+        "label": "Giấy chứng nhận đăng ký kinh doanh"
+      },
+      {
+        "flag": "🇺🇸",
+        "location": "Wyoming · Texas · Colorado · Washington",
+        "label": "Giấy chứng nhận đăng ký kinh doanh"
+      },
+      {
+        "flag": "🇭🇰",
+        "location": "Hong Kong",
+        "label": "Giấy chứng nhận đăng ký kinh doanh"
+      },
+      {
+        "flag": "🇲🇹",
+        "location": "Malta",
+        "label": "Giấy chứng nhận đăng ký kinh doanh"
+      },
+      {
+        "flag": "🏝️",
+        "location": "BVI · Seychelles · Cooks · Cayman",
+        "label": "Giấy chứng nhận đăng ký kinh doanh"
+      }
+    ]
+  }
+}
